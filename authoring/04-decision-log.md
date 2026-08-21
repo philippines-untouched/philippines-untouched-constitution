@@ -390,4 +390,16 @@
 
 ---
 
+## Entry 033 — Ratification of Chapter 28 (Supply Chain Philosophy)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 28 — Supply Chain Philosophy (`constitution/28-supply-chain-philosophy.md`) is ratified as the twenty-seventh substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter explains how suppliers and logistics partners become extensions of the Company's values. It passed the Definition of Done and the Future Leader Test. The chapter expresses Founding Principles 6 (Integrity Without Compromise) and 10 (Earn Trust Every Day) by extending the Company's standards through its supply chain — from sourcing to delivery — and connects to the local-purchasing commitment of Chapter 11 (Community Prosperity) through a preference for local suppliers who can meet the Company's standards.
+- **Alternatives considered:**
+  1. Treating suppliers and logistics purely as transactional vendors — rejected: the Company's integrity and reputation depend on its entire chain; partners are treated as contributors, not mere vendors.
+  2. Specifying particular suppliers, carriers or logistics systems — rejected: the Constitution is principle-based; specific supply arrangements belong in subordinate Logistics and Procurement manuals.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
