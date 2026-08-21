@@ -510,4 +510,16 @@
 
 ---
 
+## Entry 043 — Ratification of Chapter 38 (Technology Philosophy)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 38 — Technology Philosophy (`constitution/38-technology-philosophy.md`) is ratified as the thirty-seventh substantive chapter of the Constitution, Version 1.0, and the first chapter of Part VIII (Technology).
+- **Reason:** The chapter defines technology as an enabler of quality, efficiency and organisational learning. It adopts the purposes and system preferences from §21 of the authoring brief, and the chapter passed the Definition of Done and the Future Leader Test. The chapter expresses Founding Principle 9 (Innovation Must Serve Purpose) in the technology context, requiring that technology serve the Company's purpose and be chosen to endure across generations without dependence on any individual or supplier. As the first chapter of Part VIII, it establishes the philosophy upon which Digital Transformation, Automation and Organisational Memory build.
+- **Alternatives considered:**
+  1. Treating technology as a strategic end in itself — rejected: the brief states technology is an enabler, not an end; the chapter subordinates technology to purpose.
+  2. Specifying particular technologies or platforms — rejected: the Constitution is principle-based; specific technology choices belong in subordinate Technology Standards and Architecture documents.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
