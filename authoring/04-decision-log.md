@@ -330,4 +330,16 @@
 
 ---
 
+## Entry 028 — Ratification of Chapter 23 (Innovation Strategy)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 23 — Innovation Strategy (`constitution/23-innovation-strategy.md`) is ratified as the twenty-second substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter explains how innovation should solve meaningful problems rather than create unnecessary complexity. It expresses Founding Principle 9 (Innovation Must Serve Purpose) in full, and connects innovation to the whole-system and complexity principles of Chapter 17 (Organisational Design). The chapter passed the Definition of Done and the Future Leader Test. It frames innovation as including steady continuous improvement, not only the introduction of the new.
+- **Alternatives considered:**
+  1. Celebrating innovation for its own sake or novelty — rejected: the Company's innovation is purposeful; novelty without purpose is explicitly excluded.
+  2. Specifying particular technologies or research programmes — rejected: the Constitution is principle-based; specific innovation plans belong in subordinate Strategic Plans.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
