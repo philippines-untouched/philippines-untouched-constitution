@@ -462,4 +462,16 @@
 
 ---
 
+## Entry 039 — Ratification of Chapter 34 (Assurance & Audit)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 34 — Assurance & Audit (`constitution/34-assurance-audit.md`) is ratified as the thirty-third substantive chapter of the Constitution, Version 1.0, completing Part VI (Quality).
+- **Reason:** The chapter explains how verification, auditing and continual assessment strengthen trust. It passed the Definition of Done and the Future Leader Test. The chapter expresses Founding Principles 3 (Truth Through Evidence) and 10 (Earn Trust Every Day), and frames the Company's attitude to audit findings as that of a Company that wants to know the truth — correcting what is found, never concealing it. Ratification of this chapter completes Part VI (Quality): Quality Management, Food Safety, GLOBAL G.A.P., Traceability and Assurance & Audit.
+- **Alternatives considered:**
+  1. Treating audit as a compliance burden — rejected: assurance is the instrument of the Company's trustworthiness; audits strengthen the Company.
+  2. Confining assurance to certification audits — rejected: assurance is continual and internal, not occasional and external; the chapter establishes both.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
