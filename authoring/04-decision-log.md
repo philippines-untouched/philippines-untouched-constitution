@@ -606,4 +606,16 @@
 
 ---
 
+## Entry 051 — Ratification of Chapter 46 (Capital Allocation)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 46 — Capital Allocation (`constitution/46-capital-allocation.md`) is ratified as the forty-fifth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter explains how financial resources should be invested responsibly for long-term benefit. It passed the Definition of Done and the Future Leader Test. The chapter expresses Founding Principles 5 (Build for Generations) and 12 (Constancy of Purpose), developing the Financial Philosophy (Chapter 45) into the discipline of allocation — purposeful, long-term, stewardship-minded and evidence-based investment in service of the Company's purpose.
+- **Alternatives considered:**
+  1. Treating capital allocation as purely a financial-return decision — rejected: the Company's capital serves its purpose; the chapter weighs long-term benefit to quality, people, land, capability, resilience and the Company itself.
+  2. Including specific investment ratios, thresholds or portfolio rules — rejected: the Constitution is principle-based; specific allocation decisions belong in subordinate Financial Plans and budgets.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
