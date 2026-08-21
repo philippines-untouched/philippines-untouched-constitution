@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 54 — Handoff record
+**Version:** 55 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -84,6 +84,7 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - `constitution/47-sustainable-profitability.md` — **Chapter 47 — Sustainable Profitability, RATIFIED** (Entry 052). Profit as the consequence of creating enduring value. **Part X (Financial Stewardship) complete.**
 - `constitution/48-legacy.md` — **Chapter 48 — Legacy, RATIFIED** (Entry 053). Strengthening people, assets and reputation for future generations. First chapter of Part XI (Legacy).
 - `constitution/49-succession.md` — **Chapter 49 — Succession, RATIFIED** (Entry 054). Leadership succession as the orderly transfer of stewardship rather than ownership.
+- `constitution/50-constitutional-review.md` — **Chapter 50 — Constitutional Review, RATIFIED** (Entry 055). How the Manual evolves while preserving its founding principles. **Part XI (Legacy) complete — ALL 50 CHAPTERS RATIFIED.**
 - `constitution/06-company-identity.md` — **Chapter 6 — Company Identity: LOCAL DRAFT, not committed.** Awaiting TIN, registration numbers and corporate address (all currently unknown).
 
 ---
@@ -160,6 +161,7 @@ The public repo points to the fact that private context exists; the private repo
 56. **Chapter 47 — Sustainable Profitability** — ratified, completing Part X. Recorded as Decision Log Entry 052.
 57. **Chapter 48 — Legacy** — ratified, first chapter of Part XI. Recorded as Decision Log Entry 053.
 58. **Chapter 49 — Succession** — ratified. Recorded as Decision Log Entry 054.
+59. **Chapter 50 — Constitutional Review** — ratified, completing the Constitution. Recorded as Decision Log Entry 055.
 
 ---
 
@@ -193,7 +195,7 @@ The public repo points to the fact that private context exists; the private repo
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
    — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
-   — **IN PROGRESS**: Chapters 1–5, 7–49 ratified (Entries 007–054). **Parts II–X complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 50 — Constitutional Review (Part XI, final chapter).
+   — **COMPLETE**: All 50 chapters ratified (Entries 007–055) as Constitution Version 1.0 (Founding Edition). Remaining: Chapter 6 — Company Identity held as local draft awaiting TIN, registration numbers and corporate address (all currently unknown) from the owner; front matter 0.4–0.6 (Dedication, Founder's Foreword, How to Use This Manual) not yet drafted; glossary to be ratified after all chapters reach v1.
 
 ---
 
@@ -203,7 +205,7 @@ The public repo points to the fact that private context exists; the private repo
 2. Read `authoring/00-authoring-principles.md` (ratified v1.0) — the binding authoring framework.
 3. Read `authoring/01-table-of-contents.md` (ratified v1.0) — the definitive chapter structure.
 4. Read `authoring/02-style-guide.md` (ratified v1.0) — the binding style conventions.
-5. Read `authoring/04-decision-log.md` (entries 001–054) — the recorded decisions and their reasons.
+5. Read `authoring/04-decision-log.md` (entries 001–055) — the recorded decisions and their reasons.
 6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
 7. Refer to the open items in §7 and proceed in order.
 ---

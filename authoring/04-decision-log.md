@@ -654,4 +654,16 @@
 
 ---
 
+## Entry 055 — Ratification of Chapter 50 (Constitutional Review)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 50 — Constitutional Review (`constitution/50-constitutional-review.md`) is ratified as the forty-ninth substantive chapter of the Constitution, Version 1.0, completing Part XI (Legacy) and the full fifty-chapter Constitution.
+- **Reason:** The chapter explains how this Manual may evolve while preserving its founding principles. It passed the Definition of Done and the Future Leader Test. The chapter expresses Founding Principle 12 (Constancy of Purpose), binds the Constitution to the same amendment discipline it requires of everything else — formal amendment, preserved history, never silent change — and establishes that the thirteen Founding Principles are non-negotiable. Ratification of this chapter completes the Constitution: all fifty chapters across eleven Parts, plus Front Matter, are ratified as Version 1.0 (Founding Edition).
+- **Alternatives considered:**
+  1. Treating the Constitution as unchangeable — rejected: the Constitution must evolve to meet the needs of each generation; the chapter governs that evolution through formal amendment.
+  2. Allowing amendment to weaken the Founding Principles — rejected: the thirteen principles are the non-negotiable foundation; the chapter explicitly prohibits weakening them.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
