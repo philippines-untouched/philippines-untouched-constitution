@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 15 — Handoff record
+**Version:** 16 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -45,6 +45,7 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - `constitution/08-quality-before-profit.md` — **Chapter 8 — Quality Before Profit, RATIFIED** (Entry 013). Quality shall ALWAYS be considered ahead of profit.
 - `constitution/09-trust-through-evidence.md` — **Chapter 9 — Trust Through Evidence, RATIFIED** (Entry 014). Accurate information, traceability and evidence-based decision making as foundations of trust.
 - `constitution/10-people-grow-prosperity.md` — **Chapter 10 — People Grow Prosperity, RATIFIED** (Entry 015). Investing in people creates enduring business success.
+- `constitution/11-community-prosperity.md` — **Chapter 11 — Community Prosperity, RATIFIED** (Entry 016). Shared prosperity, not charity; capability, not dependency.
 - `constitution/06-company-identity.md` — **Chapter 6 — Company Identity: LOCAL DRAFT, not committed.** Awaiting TIN, registration numbers and corporate address (all currently unknown).
 
 ---
@@ -82,6 +83,7 @@ The public repo points to the fact that private context exists; the private repo
 17. **Chapter 8 — Quality Before Profit** — ratified. Recorded as Decision Log Entry 013.
 18. **Chapter 9 — Trust Through Evidence** — ratified. Recorded as Decision Log Entry 014.
 19. **Chapter 10 — People Grow Prosperity** — ratified. Recorded as Decision Log Entry 015.
+20. **Chapter 11 — Community Prosperity** — ratified. Recorded as Decision Log Entry 016.
 
 ---
 
@@ -115,7 +117,7 @@ The public repo points to the fact that private context exists; the private repo
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
    — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
-   — **IN PROGRESS**: Chapters 1–5, 7–10 ratified (Entries 007–015). Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 11 — Community Prosperity (Part II).
+   — **IN PROGRESS**: Chapters 1–5, 7–11 ratified (Entries 007–016). Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 12 — Environmental Responsibility (Part II).
 
 ---
 
@@ -125,7 +127,7 @@ The public repo points to the fact that private context exists; the private repo
 2. Read `authoring/00-authoring-principles.md` (ratified v1.0) — the binding authoring framework.
 3. Read `authoring/01-table-of-contents.md` (ratified v1.0) — the definitive chapter structure.
 4. Read `authoring/02-style-guide.md` (ratified v1.0) — the binding style conventions.
-5. Read `authoring/04-decision-log.md` (entries 001–015) — the recorded decisions and their reasons.
+5. Read `authoring/04-decision-log.md` (entries 001–016) — the recorded decisions and their reasons.
 6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
 7. Refer to the open items in §7 and proceed in order.
 ---

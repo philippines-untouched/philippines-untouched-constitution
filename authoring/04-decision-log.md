@@ -186,4 +186,16 @@
 
 ---
 
+## Entry 016 — Ratification of Chapter 11 (Community Prosperity)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 11 — Community Prosperity (`constitution/11-community-prosperity.md`) is ratified as the tenth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter explains the Company's commitment to strengthening surrounding communities through employment, education and opportunity. It draws the opportunity-creating commitments and educational initiatives from §16 of the authoring brief, and preserves the brief's essential distinction — the goal is shared prosperity, not charity, and the objective is capability, not dependency. The Centre of Excellence aspiration is framed as an aspiration, consistent with Authoring Principles §6 (Evidence Over Assertion). The chapter passed the Definition of Done and the Future Leader Test.
+- **Alternatives considered:**
+  1. Framing community involvement primarily as charitable giving — rejected: the brief explicitly rejects charity framing; the chapter centres shared prosperity and capability-building.
+  2. Including specific community programmes or commitments to particular institutions — rejected: the Constitution is principle-based; specific relationships and programmes belong in subordinate plans.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
