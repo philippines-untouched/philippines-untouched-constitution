@@ -558,4 +558,16 @@
 
 ---
 
+## Entry 047 — Ratification of Chapter 42 (Sustainable Development)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 42 — Sustainable Development (`constitution/42-sustainable-development.md`) is ratified as the forty-first substantive chapter of the Constitution, Version 1.0, and the first chapter of Part IX (Sustainability).
+- **Reason:** The chapter defines the Company's commitment to balancing environmental, social and economic outcomes. It passed the Definition of Done and the Future Leader Test. The chapter expresses Founding Principles 5 (Build for Generations) and 7 (Nature Is Our Foundation), frames sustainability as the balance of three dimensions that must be maintained together, and connects sustainability to the Decision Framework (Chapter 16). As the first chapter of Part IX, it establishes the balance principle upon which Climate Resilience and Resource Stewardship build.
+- **Alternatives considered:**
+  1. Treating sustainability as primarily an environmental concern — rejected: sustainable development balances environmental, social and economic outcomes together; the chapter establishes all three.
+  2. Including specific sustainability targets or reporting requirements — rejected: the Constitution is principle-based; specific commitments belong in subordinate Sustainability plans and reports.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
