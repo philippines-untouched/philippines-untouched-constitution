@@ -174,4 +174,16 @@
 
 ---
 
+## Entry 015 — Ratification of Chapter 10 (People Grow Prosperity)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 10 — People Grow Prosperity (`constitution/10-people-grow-prosperity.md`) is ratified as the ninth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter defines the Company's belief that investing in people creates enduring business success. It expresses Founding Principle 4 (People Grow Prosperity) in full, drawing the eight commitments from §17 of the authoring brief. The chapter preserves the brief's important qualification — reciprocal responsibility, not a guarantee of lifetime employment or identical outcomes — and frames difficult employment decisions with the dignity the brief requires. It passed the Definition of Done and the Future Leader Test.
+- **Alternatives considered:**
+  1. Framing people as an expense to be managed — rejected: contrary to the Company's founding philosophy; the chapter deliberately frames investment in people as investment in the Company itself.
+  2. Including specific HR procedures or policies — rejected: the Constitution is principle-based, not procedural; implementation belongs to subordinate Human Resource Policies per the document hierarchy.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
