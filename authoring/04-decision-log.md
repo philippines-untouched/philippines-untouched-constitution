@@ -294,4 +294,16 @@
 
 ---
 
+## Entry 025 — Ratification of Chapter 20 (Long-Term Strategy)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 20 — Long-Term Strategy (`constitution/20-long-term-strategy.md`) is ratified as the nineteenth substantive chapter of the Constitution, Version 1.0, and the first chapter of Part IV (Strategy).
+- **Reason:** The chapter defines the Company's long-term direction, measured in decades rather than years. It adopts the constitutional language proposed in §14 of the authoring brief — that the principles of the Company remain constant while its strategies, technologies and operations evolve — and frames long-term strategy as an expression of stewardship. The chapter passed the Definition of Done and the Future Leader Test. As the first chapter of Part IV, it establishes the principle that strategy serves purpose and never departs from the Founding Principles, upon which the remaining Strategy chapters build.
+- **Alternatives considered:**
+  1. Including specific strategic targets or plans — rejected: the Constitution is principle-based; specific strategies belong in subordinate Strategic Plans per the document hierarchy.
+  2. Placing Strategy before Philosophy or Governance — rejected: the TOC order is deliberate; strategy (Part IV) must be grounded in the Company's beliefs (Part II) and governance (Part III).
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*

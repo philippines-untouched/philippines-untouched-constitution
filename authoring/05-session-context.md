@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 24 — Handoff record
+**Version:** 25 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -54,6 +54,7 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - `constitution/17-organisational-design.md` — **Chapter 17 — Organisational Design, RATIFIED** (Entry 022). The Company as an integrated system rather than independent departments.
 - `constitution/18-information-integrity.md` — **Chapter 18 — Information Integrity, RATIFIED** (Entry 023). Information as a strategic asset requiring accuracy, security and permanence.
 - `constitution/19-risk-governance.md` — **Chapter 19 — Risk Governance, RATIFIED** (Entry 024). Risk understood, managed and balanced against opportunity. **Part III (Governance) complete.**
+- `constitution/20-long-term-strategy.md` — **Chapter 20 — Long-Term Strategy, RATIFIED** (Entry 025). Direction measured in decades rather than years. First chapter of Part IV (Strategy).
 - `constitution/06-company-identity.md` — **Chapter 6 — Company Identity: LOCAL DRAFT, not committed.** Awaiting TIN, registration numbers and corporate address (all currently unknown).
 
 ---
@@ -100,6 +101,7 @@ The public repo points to the fact that private context exists; the private repo
 26. **Chapter 17 — Organisational Design** — ratified. Recorded as Decision Log Entry 022.
 27. **Chapter 18 — Information Integrity** — ratified. Recorded as Decision Log Entry 023.
 28. **Chapter 19 — Risk Governance** — ratified, completing Part III. Recorded as Decision Log Entry 024.
+29. **Chapter 20 — Long-Term Strategy** — ratified, first chapter of Part IV. Recorded as Decision Log Entry 025.
 
 ---
 
@@ -133,7 +135,7 @@ The public repo points to the fact that private context exists; the private repo
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
    — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
-   — **IN PROGRESS**: Chapters 1–5, 7–19 ratified (Entries 007–024). **Parts II & III complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 20 — Long-Term Strategy (Part IV).
+   — **IN PROGRESS**: Chapters 1–5, 7–20 ratified (Entries 007–025). **Parts II & III complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 21 — Market Strategy (Part IV).
 
 ---
 
@@ -143,7 +145,7 @@ The public repo points to the fact that private context exists; the private repo
 2. Read `authoring/00-authoring-principles.md` (ratified v1.0) — the binding authoring framework.
 3. Read `authoring/01-table-of-contents.md` (ratified v1.0) — the definitive chapter structure.
 4. Read `authoring/02-style-guide.md` (ratified v1.0) — the binding style conventions.
-5. Read `authoring/04-decision-log.md` (entries 001–024) — the recorded decisions and their reasons.
+5. Read `authoring/04-decision-log.md` (entries 001–025) — the recorded decisions and their reasons.
 6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
 7. Refer to the open items in §7 and proceed in order.
 ---
