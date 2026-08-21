@@ -630,4 +630,16 @@
 
 ---
 
+## Entry 053 — Ratification of Chapter 48 (Legacy)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 48 — Legacy (`constitution/48-legacy.md`) is ratified as the forty-seventh substantive chapter of the Constitution, Version 1.0, and the first chapter of Part XI (Legacy).
+- **Reason:** The chapter explains the Company's responsibility to strengthen its people, assets and reputation for future generations. It passed the Definition of Done and the Future Leader Test. The chapter adopts the twelve legacy elements from §7 of the authoring brief and the guiding concept that each generation is a steward rather than merely an owner. It expresses Founding Principles 1 (Stewardship Before Ownership) and 5 (Build for Generations), and serves as the synthesis of the entire Constitution. As the first chapter of Part XI, it establishes the legacy principle upon which Succession and Constitutional Review build.
+- **Alternatives considered:**
+  1. Treating legacy as primarily financial inheritance — rejected: the brief states legacy is broader than inheritance; the chapter establishes the full twelve-element legacy.
+  2. Confining legacy to the founder's personal aspirations — rejected: the Constitution is not about any individual; the legacy is the Company's institutional legacy.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
