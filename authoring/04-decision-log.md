@@ -246,4 +246,16 @@
 
 ---
 
+## Entry 021 — Ratification of Chapter 16 (Decision Framework)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 16 — Decision Framework (`constitution/16-decision-framework.md`) is ratified as the fifteenth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter provides the structured process by which significant business decisions are evaluated. It adopts the ten decision questions from §24 of the authoring brief, with an explicit rule that failure involving a Founding Principle stops the decision from proceeding. The chapter passed the Definition of Done and the Future Leader Test. It reinforces the whole-system principle from the brief (§4) and connects the evidence philosophy (Chapter 9) to practical decision making.
+- **Alternatives considered:**
+  1. Prescribing a detailed decision procedure with thresholds and sign-offs — rejected: the Constitution is principle-based; the framework states how decisions are evaluated, while specific procedures belong in subordinate governance policies.
+  2. Limiting the framework to financial criteria — rejected: the Company's decisions are tested against its principles (quality, trust, nature, people, community, evidence, sustainability, future), not financial criteria alone.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
