@@ -534,4 +534,16 @@
 
 ---
 
+## Entry 045 — Ratification of Chapter 40 (Automation)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 40 — Automation (`constitution/40-automation.md`) is ratified as the thirty-ninth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter defines when automation should be embraced and when human expertise remains essential. It passed the Definition of Done and the Future Leader Test. The chapter expresses Founding Principle 9 (Innovation Must Serve Purpose), and preserves human judgement, responsibility and accountability as constitutional requirements — automation changes where responsibility is exercised, never removes it. It builds upon the Technology Philosophy (Chapter 38) and the human-judgement principle of Chapter 39 (Digital Transformation).
+- **Alternatives considered:**
+  1. Embracing automation indiscriminately — rejected: automation is adopted only where it serves the Company's purpose; the chapter defines both when to automate and when human expertise remains essential.
+  2. Treating automation as a replacement for human responsibility — rejected: the people of the Company remain accountable for automated outcomes; the chapter makes this explicit.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
