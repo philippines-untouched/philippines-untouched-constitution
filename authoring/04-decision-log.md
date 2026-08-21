@@ -486,4 +486,16 @@
 
 ---
 
+## Entry 041 — Ratification of Chapter 36 (Brand Architecture)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 36 — Brand Architecture (`constitution/36-brand-architecture.md`) is ratified as the thirty-fifth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter explains the relationship between Philippines Untouched, PUM and future brands. It passed the Definition of Done and the Future Leader Test. The chapter was refined during drafting to establish that no brand — PUM included — is a reference point for another brand: every brand relates to the Company directly and derives its standing from the Company's principles and reputation. This preserves the principle that the Company is the single source of identity and trust for all its brands.
+- **Alternatives considered:**
+  1. Making PUM the architectural reference point for future brands — rejected by the owner: PUM is a brand only; future brands relate to the Company, never to another brand.
+  2. Leaving the relationship between brands undefined — rejected: a deliberate architecture is required so that the Company's names and brands present the Company coherently.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
