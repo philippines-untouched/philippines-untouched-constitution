@@ -378,4 +378,16 @@
 
 ---
 
+## Entry 032 — Ratification of Chapter 27 (Manufacturing Philosophy)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 27 — Manufacturing Philosophy (`constitution/27-manufacturing-philosophy.md`) is ratified as the twenty-sixth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter defines the principles governing food production and value-added manufacturing. It frames manufacturing as the continuation of the Company's agriculture, carrying the farm's standards through every stage of production. The chapter passed the Definition of Done and the Future Leader Test. It expresses Founding Principles 2 (Quality Before Profit) and 6 (Integrity Without Compromise) through its safety and honesty commitments, and establishes that value-added manufacturing must add genuine value.
+- **Alternatives considered:**
+  1. Including specific manufacturing processes, equipment or recipes — rejected: the Constitution is principle-based; manufacturing procedures belong in the subordinate Manufacturing Manual.
+  2. Treating food safety only in the later Food Safety chapter (31) — rejected: safety is integral to the manufacturing philosophy itself; Chapter 31 then develops food safety as a distinct commitment in full.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
