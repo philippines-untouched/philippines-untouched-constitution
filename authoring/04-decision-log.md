@@ -138,4 +138,16 @@
 
 ---
 
+## Entry 012 — Ratification of Chapter 7 (Stewardship)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 7 — Stewardship (`constitution/07-stewardship.md`) is ratified as the sixth substantive chapter of the Constitution, Version 1.0, and the first chapter of Part II (Philosophy).
+- **Reason:** The chapter defines the Company's most fundamental duty — to hold in trust the land, the people, the Company and the knowledge entrusted to it, and to leave each stronger for future generations. It expresses Founding Principle 1 (Stewardship Before Ownership) and Founding Principle 7 (Nature Is Our Foundation) in full, drawing the land duties from §15 of the authoring brief. The chapter passed the Definition of Done and the Future Leader Test. As the first chapter of Part II, it establishes the philosophical foundation upon which the remaining Philosophy chapters (Quality, Evidence, People, Community, Environment, Knowledge) build.
+- **Alternatives considered:**
+  1. Limiting the chapter to land stewardship — rejected: the brief's stewardship concept extends beyond the land to people, the Company itself and knowledge; a full treatment is required for the keystone philosophy.
+  2. Placing Stewardship in Part I (Identity) — rejected: stewardship is a belief about how the Company holds what it has, which belongs in Philosophy; the TOC places it at the head of Part II deliberately.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
