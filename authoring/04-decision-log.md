@@ -474,4 +474,16 @@
 
 ---
 
+## Entry 040 — Ratification of Chapter 35 (Corporate Reputation)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 35 — Corporate Reputation (`constitution/35-corporate-reputation.md`) is ratified as the thirty-fourth substantive chapter of the Constitution, Version 1.0, and the first chapter of Part VII (Brand).
+- **Reason:** The chapter defines reputation as one of the Company's most valuable long-term assets. It passed the Definition of Done and the Future Leader Test. The chapter expresses Founding Principles 10 (Earn Trust Every Day) and 5 (Build for Generations), framing reputation as earned through conduct rather than claimed through words, and as an inheritance each generation protects and strengthens. As the first chapter of Part VII, it establishes the value that the Brand chapters (Brand Architecture, Customer Trust) build upon.
+- **Alternatives considered:**
+  1. Treating reputation as a marketing or public-relations concern — rejected: reputation is a strategic asset earned through the Company's conduct; the chapter establishes it as such.
+  2. Placing reputation in the Quality part — rejected: reputation is the accumulated judgement of the Company's conduct, which belongs in the Brand part; the TOC places it at the head of Part VII deliberately.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
