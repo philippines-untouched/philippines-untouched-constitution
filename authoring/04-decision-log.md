@@ -210,4 +210,16 @@
 
 ---
 
+## Entry 018 — Ratification of Chapter 13 (Knowledge & Education)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 13 — Knowledge & Education (`constitution/13-knowledge-education.md`) is ratified as the twelfth substantive chapter of the Constitution, Version 1.0, completing Part II (Philosophy).
+- **Reason:** The chapter explains the Company's commitment to continual learning, agricultural education and knowledge sharing. It expresses Founding Principle 8 (Knowledge Should Be Cultivated and Shared) in full, drawing the knowledge-preservation practices from §20 of the authoring brief. The chapter passed the Definition of Done and the Future Leader Test — reinforced by §13.5, which makes the future leader's knowledge inheritance explicit. Ratification of this chapter completes Part II (Philosophy): Stewardship, Quality Before Profit, Trust Through Evidence, People Grow Prosperity, Community Prosperity, Environmental Responsibility and Knowledge & Education.
+- **Alternatives considered:**
+  1. Merging knowledge and education into the Community Prosperity chapter — rejected: knowledge is a strategic asset of the Company itself (brief §20), not only a community contribution; it warrants its own philosophical chapter.
+  2. Deferring the knowledge content to Chapter 41 (Organisational Memory) — rejected: Chapter 41 develops the preservation *systems* in the Technology part; Chapter 13 establishes the philosophical commitment to learning and sharing, which the later chapter builds upon.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
