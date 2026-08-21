@@ -318,4 +318,16 @@
 
 ---
 
+## Entry 027 — Ratification of Chapter 22 (Growth Strategy)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 22 — Growth Strategy (`constitution/22-growth-strategy.md`) is ratified as the twenty-first substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter defines sustainable expansion — growth that strengthens the Company without compromising its principles, its quality or its stewardship. It passed the Definition of Done and the Future Leader Test. The chapter expresses Founding Principles 2 (Quality Before Profit), 5 (Build for Generations) and 12 (Constancy of Purpose), and builds directly upon Chapter 20 (Long-Term Strategy) by governing how the Company's long-term direction is pursued through expansion.
+- **Alternatives considered:**
+  1. Including specific growth targets, acquisition criteria or expansion plans — rejected: the Constitution is principle-based; specific growth plans belong in subordinate Strategic and Business Plans.
+  2. Framing growth as an imperative — rejected: growth serves the Company's purpose; the chapter deliberately subordinates growth to sustainability and principles.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
