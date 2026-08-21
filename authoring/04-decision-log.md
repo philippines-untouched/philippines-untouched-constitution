@@ -498,4 +498,16 @@
 
 ---
 
+## Entry 042 — Ratification of Chapter 37 (Customer Trust)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 37 — Customer Trust (`constitution/37-customer-trust.md`) is ratified as the thirty-sixth substantive chapter of the Constitution, Version 1.0, completing Part VII (Brand).
+- **Reason:** The chapter defines how trust is earned, maintained and protected. It passed the Definition of Done and the Future Leader Test. The chapter expresses Founding Principle 10 (Earn Trust Every Day) in the context of the Company's most important relationship — with its customers — and requires honest response when trust is tested, treating the customer's trust as more valuable than any short-term gain. Ratification of this chapter completes Part VII (Brand): Corporate Reputation, Brand Architecture and Customer Trust.
+- **Alternatives considered:**
+  1. Confining customer trust to marketing or customer service — rejected: trust is the foundation of the Company's market existence and is earned through the Company's conduct across all its activities.
+  2. Merging customer trust into the Corporate Reputation chapter — rejected: reputation is the accumulated judgement of all stakeholders; customer trust is the specific relationship with those who buy the Company's products; the TOC separates these.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*

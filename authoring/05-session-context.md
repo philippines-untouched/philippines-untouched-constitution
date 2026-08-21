@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 41 — Handoff record
+**Version:** 42 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -71,6 +71,7 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - `constitution/34-assurance-audit.md` — **Chapter 34 — Assurance & Audit, RATIFIED** (Entry 039). Verification, auditing and continual assessment strengthen trust. **Part VI (Quality) complete.**
 - `constitution/35-corporate-reputation.md` — **Chapter 35 — Corporate Reputation, RATIFIED** (Entry 040). Reputation as one of the Company's most valuable long-term assets. First chapter of Part VII (Brand).
 - `constitution/36-brand-architecture.md` — **Chapter 36 — Brand Architecture, RATIFIED** (Entry 041). Every brand relates to the Company directly; no brand is subordinate to another.
+- `constitution/37-customer-trust.md` — **Chapter 37 — Customer Trust, RATIFIED** (Entry 042). How trust is earned, maintained and protected. **Part VII (Brand) complete.**
 - `constitution/06-company-identity.md` — **Chapter 6 — Company Identity: LOCAL DRAFT, not committed.** Awaiting TIN, registration numbers and corporate address (all currently unknown).
 
 ---
@@ -134,6 +135,7 @@ The public repo points to the fact that private context exists; the private repo
 43. **Chapter 34 — Assurance & Audit** — ratified, completing Part VI. Recorded as Decision Log Entry 039.
 44. **Chapter 35 — Corporate Reputation** — ratified, first chapter of Part VII. Recorded as Decision Log Entry 040.
 45. **Chapter 36 — Brand Architecture** — ratified. Recorded as Decision Log Entry 041. (Refined during drafting: no brand is a reference point for another; all relate to the Company.)
+46. **Chapter 37 — Customer Trust** — ratified, completing Part VII. Recorded as Decision Log Entry 042.
 
 ---
 
@@ -167,7 +169,7 @@ The public repo points to the fact that private context exists; the private repo
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
    — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
-   — **IN PROGRESS**: Chapters 1–5, 7–36 ratified (Entries 007–041). **Parts II–VI complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 37 — Customer Trust (Part VII, final chapter).
+   — **IN PROGRESS**: Chapters 1–5, 7–37 ratified (Entries 007–042). **Parts II–VII complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 38 — Technology Philosophy (Part VIII).
 
 ---
 
@@ -177,7 +179,7 @@ The public repo points to the fact that private context exists; the private repo
 2. Read `authoring/00-authoring-principles.md` (ratified v1.0) — the binding authoring framework.
 3. Read `authoring/01-table-of-contents.md` (ratified v1.0) — the definitive chapter structure.
 4. Read `authoring/02-style-guide.md` (ratified v1.0) — the binding style conventions.
-5. Read `authoring/04-decision-log.md` (entries 001–041) — the recorded decisions and their reasons.
+5. Read `authoring/04-decision-log.md` (entries 001–042) — the recorded decisions and their reasons.
 6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
 7. Refer to the open items in §7 and proceed in order.
 ---
