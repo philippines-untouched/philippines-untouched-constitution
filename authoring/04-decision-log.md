@@ -414,4 +414,16 @@
 
 ---
 
+## Entry 035 — Ratification of Chapter 30 (Quality Management)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 30 — Quality Management (`constitution/30-quality-management.md`) is ratified as the twenty-ninth substantive chapter of the Constitution, Version 1.0, and the first chapter of Part VI (Quality).
+- **Reason:** The chapter defines quality as the Company's primary competitive advantage. It passed the Definition of Done and the Future Leader Test. The chapter develops the quality philosophy of Chapter 8 (Quality Before Profit) into deliberate management — defining the quality system, making quality everyone's responsibility, and preferring prevention over correction. As the first chapter of Part VI, it establishes the management framework upon which the remaining Quality chapters (Food Safety, GLOBAL G.A.P., Traceability, Assurance & Audit) build.
+- **Alternatives considered:**
+  1. Confining quality to a quality department or inspection function — rejected: quality is the standard of the whole Company and the responsibility of everyone acting on its behalf.
+  2. Specifying particular quality management system standards — rejected: the Constitution is principle-based; specific quality system certifications belong in subordinate Quality Management System documents.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
