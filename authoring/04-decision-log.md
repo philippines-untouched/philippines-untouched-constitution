@@ -570,4 +570,16 @@
 
 ---
 
+## Entry 048 — Ratification of Chapter 43 (Climate Resilience)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 43 — Climate Resilience (`constitution/43-climate-resilience.md`) is ratified as the forty-second substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter explains how the Company prepares for environmental change while protecting long-term productivity. It passed the Definition of Done and the Future Leader Test. The chapter expresses Founding Principles 1 (Stewardship Before Ownership), 5 (Build for Generations) and 7 (Nature Is Our Foundation), builds upon the climate-resilience duty of Chapter 12 (Environmental Responsibility), and frames preparation as stewardship on behalf of future generations. It connects to Risk Governance (Chapter 19) through the discipline of understanding before preparation.
+- **Alternatives considered:**
+  1. Treating climate change as a distant or external concern — rejected: the Company's future depends on its ability to endure environmental change; the chapter makes preparation a constitutional responsibility.
+  2. Including specific climate scenarios or adaptation plans — rejected: the Constitution is principle-based; specific plans belong in subordinate Sustainability and Farm plans.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
