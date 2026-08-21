@@ -258,4 +258,16 @@
 
 ---
 
+## Entry 022 — Ratification of Chapter 17 (Organisational Design)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 17 — Organisational Design (`constitution/17-organisational-design.md`) is ratified as the sixteenth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter explains how the Company is designed as an integrated system rather than a collection of independent departments. It converts the founder's systems philosophy from §4 of the authoring brief into institutional principles — whole-system understanding, one-part-at-a-time improvement, and complexity that serves value — without any reference to the founder, as the brief requires. The chapter passed the Definition of Done and the Future Leader Test. It reinforces Founding Principle 11 through §17.5, which requires that no part of the Company depend on a single individual.
+- **Alternatives considered:**
+  1. Presenting the founder's systems experience as the basis for the chapter — rejected: the brief explicitly requires the philosophy to be converted into institutional principles rather than making the Constitution dependent upon the founder.
+  2. Specifying a particular organisational chart or structure — rejected: the Constitution is principle-based; structures evolve, and the chapter instead sets the design principles that any structure must satisfy.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
