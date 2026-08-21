@@ -78,4 +78,16 @@
 
 ---
 
+## Entry 007 — Ratification of Chapter 1 (Purpose)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 1 — Purpose (`constitution/01-purpose.md`) is ratified as the first substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter establishes the Company's reason for existing beyond financial success — the foundation upon which every subsequent chapter builds. It was drafted in accordance with the ratified Authoring Principles and Style Guide, and satisfied every criterion of the Definition of Done. It passed the Future Leader Test: a future leader who never met the founder can understand why the Company exists without any personal knowledge. The chapter's central principle — that profit is a means to fulfilling the Company's purpose, not the purpose itself — is the Company's most fundamental belief and belongs at the head of Part I (Identity).
+- **Alternatives considered:**
+  1. Drafting Part I chapters (Vision, Mission) before Purpose — rejected: Purpose defines why the Company exists; Vision and Mission describe what it seeks to become and what it does. Purpose must come first.
+  2. Including the Founding Principles chapter before Purpose — rejected: the proposed Founding Principles are themselves unratified; the TOC order is deliberate, with Purpose establishing the foundation first.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
