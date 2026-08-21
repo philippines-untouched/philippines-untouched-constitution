@@ -150,4 +150,16 @@
 
 ---
 
+## Entry 013 — Ratification of Chapter 8 (Quality Before Profit)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 8 — Quality Before Profit (`constitution/08-quality-before-profit.md`) is ratified as the seventh substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter explains why uncompromising quality is considered more important than short-term financial gain. It expresses Founding Principle 2 (Quality Before Profit) in full, drawing the eight dimensions of quality from §12 of the authoring brief. The chapter carefully preserves the brief's qualification — the commitment is to quality before *short-term* gain, not financial recklessness — and frames financial discipline as the servant of quality. It passed the Definition of Done and the Future Leader Test.
+- **Alternatives considered:**
+  1. Treating Quality Before Profit as a short statement within the Founding Principles chapter — rejected: the commitment is substantial enough, and important enough, to warrant its own philosophical chapter with full treatment of what quality means and how conflicts are resolved.
+  2. Including competitive comparison language to justify the commitment — rejected: the Style Guide and Founding Principle 13 prohibit diminishing others; §8.5 instead states the Company's own standard of excellence.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
