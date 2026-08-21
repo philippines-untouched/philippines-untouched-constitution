@@ -114,4 +114,16 @@
 
 ---
 
+## Entry 010 — Ratification of Chapter 4 (Core Values)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 4 — Core Values (`constitution/04-core-values.md`) is ratified as the fourth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter defines the enduring values expected of every person acting on behalf of the Company — Integrity, Quality, Stewardship, Trust, Excellence. The values are framed as a standard of conduct, not aspirations, and apply without exception. The chapter passed the Definition of Done and the Future Leader Test. The five values are deliberately distinct from the Founding Principles (Chapter 5): Core Values describe the standard of personal conduct; Founding Principles will describe the non-negotiable principles from which decisions flow.
+- **Alternatives considered:**
+  1. Adopting a longer list of values — rejected: five values are memorable, durable and mutually distinct; a longer list would dilute the standard.
+  2. Merging Core Values into the Founding Principles chapter — rejected: the TOC separates personal conduct standards (Chapter 4) from decision principles (Chapter 5); the Founding Principles remain to be ratified (see open item on ratifying them after chapters).
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
