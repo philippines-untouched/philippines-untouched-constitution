@@ -106,7 +106,7 @@ The public repo points to the fact that private context exists; the private repo
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
    — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
-   — **IN PROGRESS**: Chapters 1–5 ratified (Entries 007–011). Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN and registration numbers from the owner before ratification. Next after Chapter 6: Chapter 7 — Stewardship (Part II).
+   — **IN PROGRESS**: Chapters 1–5 ratified (Entries 007–011). Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 7 — Stewardship (Part II).
 
 ---
 
