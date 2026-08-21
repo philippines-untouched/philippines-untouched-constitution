@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 45 — Handoff record
+**Version:** 46 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -75,6 +75,7 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - `constitution/38-technology-philosophy.md` — **Chapter 38 — Technology Philosophy, RATIFIED** (Entry 043). Technology as an enabler of quality, efficiency and organisational learning. First chapter of Part VIII (Technology).
 - `constitution/39-digital-transformation.md` — **Chapter 39 — Digital Transformation, RATIFIED** (Entry 044). Digital systems support decision making without replacing human judgement.
 - `constitution/40-automation.md` — **Chapter 40 — Automation, RATIFIED** (Entry 045). When automation is embraced and when human expertise remains essential.
+- `constitution/41-organisational-memory.md` — **Chapter 41 — Organisational Memory, RATIFIED** (Entry 046). The keystone chapter — how the Company captures and preserves knowledge for future generations. **Part VIII (Technology) complete.**
 - `constitution/06-company-identity.md` — **Chapter 6 — Company Identity: LOCAL DRAFT, not committed.** Awaiting TIN, registration numbers and corporate address (all currently unknown).
 
 ---
@@ -142,6 +143,7 @@ The public repo points to the fact that private context exists; the private repo
 47. **Chapter 38 — Technology Philosophy** — ratified, first chapter of Part VIII. Recorded as Decision Log Entry 043.
 48. **Chapter 39 — Digital Transformation** — ratified. Recorded as Decision Log Entry 044.
 49. **Chapter 40 — Automation** — ratified. Recorded as Decision Log Entry 045.
+50. **Chapter 41 — Organisational Memory** — ratified, the keystone chapter, completing Part VIII. Recorded as Decision Log Entry 046.
 
 ---
 
@@ -175,7 +177,7 @@ The public repo points to the fact that private context exists; the private repo
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
    — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
-   — **IN PROGRESS**: Chapters 1–5, 7–40 ratified (Entries 007–045). **Parts II–VII complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 41 — Organisational Memory (Part VIII, final chapter — the keystone).
+   — **IN PROGRESS**: Chapters 1–5, 7–41 ratified (Entries 007–046). **Parts II–VIII complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 42 — Sustainable Development (Part IX).
 
 ---
 
@@ -185,7 +187,7 @@ The public repo points to the fact that private context exists; the private repo
 2. Read `authoring/00-authoring-principles.md` (ratified v1.0) — the binding authoring framework.
 3. Read `authoring/01-table-of-contents.md` (ratified v1.0) — the definitive chapter structure.
 4. Read `authoring/02-style-guide.md` (ratified v1.0) — the binding style conventions.
-5. Read `authoring/04-decision-log.md` (entries 001–045) — the recorded decisions and their reasons.
+5. Read `authoring/04-decision-log.md` (entries 001–046) — the recorded decisions and their reasons.
 6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
 7. Refer to the open items in §7 and proceed in order.
 ---

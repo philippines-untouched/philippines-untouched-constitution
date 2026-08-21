@@ -546,4 +546,16 @@
 
 ---
 
+## Entry 046 — Ratification of Chapter 41 (Organisational Memory)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 41 — Organisational Memory (`constitution/41-organisational-memory.md`) is ratified as the fortieth substantive chapter of the Constitution, Version 1.0, completing Part VIII (Technology).
+- **Reason:** The chapter explains how the Company captures and preserves knowledge for future generations. The author's note in the refined TOC names this the keystone chapter of the entire Manual — the chapter that ties together documentation, education, traceability, technology, governance and succession into the idea that the Company should never lose the knowledge it works so hard to acquire. The chapter passed the Definition of Done and the Future Leader Test — indeed, it is the chapter that makes the Future Leader Test possible, since it is the Company's memory that lets a leader who never met the founders serve the Company's purpose faithfully. It draws the preservation categories from §20 of the authoring brief, and completes Part VIII (Technology): Philosophy, Digital Transformation, Automation and Organisational Memory.
+- **Alternatives considered:**
+  1. Treating knowledge preservation as an individual responsibility — rejected: knowledge must not disappear when individuals leave; preservation is an institutional capability.
+  2. Confining the chapter to digital systems — rejected: memory is preserved through records, training, succession and the Constitution itself; digital systems are one instrument among several.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
