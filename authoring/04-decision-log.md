@@ -594,4 +594,16 @@
 
 ---
 
+## Entry 050 — Ratification of Chapter 45 (Financial Philosophy)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 45 — Financial Philosophy (`constitution/45-financial-philosophy.md`) is ratified as the forty-fourth substantive chapter of the Constitution, Version 1.0, and the first chapter of Part X (Financial Stewardship).
+- **Reason:** The chapter defines money as a tool for achieving the Company's purpose rather than its purpose. It passed the Definition of Done and the Future Leader Test. The chapter gives constitutional form to the brief's fundamental philosophy (§2: "profit is a means to fulfilling the Company's purpose, not the purpose itself"), and establishes that financial gain achieved at the cost of the Company's purpose is loss in the disguise of profit. It builds on Chapter 1 (Purpose) and Chapter 8 (Quality Before Profit). As the first chapter of Part X, it establishes the philosophy upon which Capital Allocation and Sustainable Profitability build.
+- **Alternatives considered:**
+  1. Treating profit maximisation as the Company's primary objective — rejected: contrary to the brief's fundamental philosophy; money serves purpose, never the reverse.
+  2. Confining the chapter to accounting and financial-management rules — rejected: the Constitution is principle-based; specific financial procedures belong in subordinate Financial Policies.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
