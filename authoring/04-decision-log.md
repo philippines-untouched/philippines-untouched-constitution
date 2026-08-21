@@ -402,4 +402,16 @@
 
 ---
 
+## Entry 034 — Ratification of Chapter 29 (Continuous Improvement)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 29 — Continuous Improvement (`constitution/29-continuous-improvement.md`) is ratified as the twenty-eighth substantive chapter of the Constitution, Version 1.0, completing Part V (Operations).
+- **Reason:** The chapter defines the Company's commitment to incremental improvement throughout every part of the organisation. It passed the Definition of Done and the Future Leader Test. The chapter expresses Founding Principle 13 (Excellence Without Comparison) — the Company improves itself through its own standards — and applies the one-part-at-a-time principle from Chapter 17 (Organisational Design) to improvement itself. Ratification of this chapter completes Part V (Operations): Operational Excellence, Agricultural Philosophy, Manufacturing Philosophy, Supply Chain Philosophy and Continuous Improvement.
+- **Alternatives considered:**
+  1. Confining improvement to specific functions or programmes — rejected: the chapter explicitly applies improvement to every part of the Company, from field to factory to delivery.
+  2. Including specific improvement methodologies or tools — rejected: the Constitution is principle-based; improvement methods belong in subordinate operational documents.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
