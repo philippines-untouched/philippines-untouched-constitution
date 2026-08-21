@@ -270,4 +270,16 @@
 
 ---
 
+## Entry 023 — Ratification of Chapter 18 (Information Integrity)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 18 — Information Integrity (`constitution/18-information-integrity.md`) is ratified as the seventeenth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter defines information as a strategic asset requiring accuracy, security and permanence. It develops the evidence philosophy of Chapter 9 (Trust Through Evidence) from a belief into a governance responsibility: how the Company manages information as an asset. The chapter passed the Definition of Done and the Future Leader Test. It balances security and transparency — the Company protects what must be protected so it can honestly share what should be shared.
+- **Alternatives considered:**
+  1. Merging Information Integrity into the Trust Through Evidence chapter — rejected: Chapter 9 establishes the philosophical commitment to evidence (Part II), while Chapter 18 establishes the governance of information as a managed asset (Part III); the TOC separates these deliberately.
+  2. Including detailed technical or data-management requirements — rejected: the Constitution is principle-based; technical implementation belongs to subordinate Technology Standards.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
