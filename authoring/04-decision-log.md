@@ -342,4 +342,16 @@
 
 ---
 
+## Entry 029 — Ratification of Chapter 24 (International Strategy)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 24 — International Strategy (`constitution/24-international-strategy.md`) is ratified as the twenty-third substantive chapter of the Constitution, Version 1.0, completing Part IV (Strategy).
+- **Reason:** The chapter defines the Company's export aspirations and its commitment to meeting international standards. It draws the international standards commitments from §18 of the authoring brief, and preserves the brief's explicit requirement that certification is a strategic objective, never implied as achieved until formally obtained — consistent with Authoring Principles §6 (Evidence Over Assertion). The chapter passed the Definition of Done and the Future Leader Test. Ratification of this chapter completes Part IV (Strategy): Long-Term, Market, Growth, Innovation and International Strategy.
+- **Alternatives considered:**
+  1. Treating certification as an achieved or assumed status — rejected: the brief and Authoring Principles explicitly prohibit implying certification before it is formally granted.
+  2. Naming specific export markets or regulatory regimes — rejected: the Constitution is principle-based; specific market plans belong in subordinate Export Plans and the Export Manual.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
