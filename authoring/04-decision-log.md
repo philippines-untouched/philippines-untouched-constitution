@@ -450,4 +450,16 @@
 
 ---
 
+## Entry 038 — Ratification of Chapter 33 (Traceability)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 33 — Traceability (`constitution/33-traceability.md`) is ratified as the thirty-second substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter defines complete product traceability from origin to customer as a core organisational capability. It adopts the full lifecycle chain from §19 of the authoring brief — seed through cultivation, harvest, processing, packaging, storage, distribution to customer — and the six purposes traceability serves. The chapter passed the Definition of Done and the Future Leader Test. It expresses Founding Principle 3 (Truth Through Evidence) and connects traceability to food safety, customer trust, export compliance and organisational memory.
+- **Alternatives considered:**
+  1. Treating traceability as an optional or product-specific feature — rejected: the brief states complete traceability is a foundational principle; the chapter establishes it as a core organisational capability.
+  2. Specifying particular traceability technologies or systems — rejected: the Constitution is principle-based; digital implementation belongs in subordinate Technology Standards, while the chapter notes that digital systems shall support the capability.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
