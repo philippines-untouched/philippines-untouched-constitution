@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 5 — Handoff record
+**Version:** 6 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -32,8 +32,8 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - `authoring/04-decision-log.md` — seeded with **Entry 001** (provenance of authoring context). The log's format is established; subsequent decisions are appended.
 - `authoring/01-table-of-contents.md` — **v1.0 RATIFIED** (Entry 004). 50 chapters across 11 Parts, 4 Appendices, 6 Front Matter sections.
 - `authoring/02-style-guide.md` — **v1.0 RATIFIED** (Entry 005). Constitutional register, voice, "shall" usage, capitalisation, International English, and conventions.
-- `authoring/03-glossary.md` — still a stub; content to be agreed.
-- `README.md` — still a stub; content to be agreed.
+- `authoring/03-glossary.md` — **working draft v0.1** (local only, deliberately NOT committed until all chapters reach v1 — new terms may emerge during editing and ratification).
+- `README.md` — **approved by owner, committed** (commit `ef6ab14`).
 - `LICENSE.md` — **CC BY-ND 4.0** (ratified). Recorded as Decision Log Entry 002.
 - `constitution/00-front-matter.md` — **migrated from private farm repo** (Entry 006). Contains 0.1 Cover Page, 0.2 Document Control, 0.3 Revision History. Copyright updated to CC BY-ND 4.0. Sections 0.4–0.6 not yet drafted.
 
@@ -62,6 +62,7 @@ The public repo points to the fact that private context exists; the private repo
 7. **Table of Contents** — 50 chapters across 11 Parts, adopted from the refined farm TOC. Recorded as Decision Log Entry 004.
 8. **Style Guide** — constitutional register, positive voice, "shall" usage, International English. Recorded as Decision Log Entry 005.
 9. **Front Matter migration** — Part 0 draft moved from private farm repo to `constitution/00-front-matter.md` with CC BY-ND 4.0 copyright. Recorded as Decision Log Entry 006.
+10. **README** — approved by the owner; describes purpose, structure, license, status and institutional authorship.
 
 ---
 
@@ -88,8 +89,9 @@ The public repo points to the fact that private context exists; the private repo
    — **RESOLVED**: Ratified as v1.0 (Entry 004).
 5. **Style guide** (`02`) — language, register ("shall" constitutional voice), heading conventions, quoting rules.
    — **RESOLVED**: Ratified as v1.0 (Entry 005).
-6. **Glossary** (`03`) — key terms: Constitution, Company, PUM, GLOBAL G.A.P., stewardship, etc.
+6. **Glossary** (`03`) — **working draft v0.1 created locally; intentionally uncommitted.** Will accumulate terms during chapter drafting and be ratified after all chapters reach v1.
 7. **README** — content to be agreed.
+   — **RESOLVED**: Approved and committed (`ef6ab14`).
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
    — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
@@ -105,7 +107,6 @@ The public repo points to the fact that private context exists; the private repo
 5. Read `authoring/04-decision-log.md` (entries 001–006) — the recorded decisions and their reasons.
 6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
 7. Refer to the open items in §7 and proceed in order.
-
 ---
 
 *This note is a working record, not a constitutional document. It may be updated by future sessions as the authoring progresses.*
