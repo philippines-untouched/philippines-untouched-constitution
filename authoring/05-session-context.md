@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 3 — Handoff record
+**Version:** 4 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -30,7 +30,9 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - Repository created (public), initial skeleton committed (`6749d3c`, branch `main`).
 - `authoring/00-authoring-principles.md` — **v1.0 RATIFIED** (Entry 003). The authoring foundation is formally established.
 - `authoring/04-decision-log.md` — seeded with **Entry 001** (provenance of authoring context). The log's format is established; subsequent decisions are appended.
-- `authoring/01-table-of-contents.md`, `02-style-guide.md`, `03-glossary.md` — still stubs; contents to be agreed.
+- `authoring/01-table-of-contents.md` — **v1.0 RATIFIED** (Entry 004). 50 chapters across 11 Parts, 4 Appendices, 6 Front Matter sections.
+- `authoring/02-style-guide.md` — **v1.0 RATIFIED** (Entry 005). Constitutional register, voice, "shall" usage, capitalisation, International English, and conventions.
+- `authoring/03-glossary.md` — still a stub; content to be agreed.
 - `README.md` — still a stub; content to be agreed.
 - `LICENSE.md` — **CC BY-ND 4.0** (ratified). Recorded as Decision Log Entry 002.
 - `constitution/` — empty, awaiting migration of the Manual content.
@@ -57,6 +59,8 @@ The public repo points to the fact that private context exists; the private repo
 4. **Foundation before chapters** — no substantive chapters until the authoring foundation is agreed (per the brief's working method).
 5. **One bite at a time** — the authoring proceeds chapter by chapter, deliberately.
 6. **CC BY-ND 4.0 license** — the Constitution is freely shareable with attribution but may not be altered by third parties. Recorded as Decision Log Entry 002.
+7. **Table of Contents** — 50 chapters across 11 Parts, adopted from the refined farm TOC. Recorded as Decision Log Entry 004.
+8. **Style Guide** — constitutional register, positive voice, "shall" usage, International English. Recorded as Decision Log Entry 005.
 
 ---
 
@@ -76,10 +80,13 @@ The public repo points to the fact that private context exists; the private repo
 
 1. **Review of `00-authoring-principles.md`** — the owner's reaction may adjust structure, wording, or voice before ratification. This is the immediate next step.
    — **RESOLVED**: Ratified as v1.0 (Entry 003).
-2. **Ratify the 13 proposed Founding Principles now, or after chapters?** — the founding session's lean: *after* — let the principles emerge from the chapters and be ratified against them, so the final list is earned rather than imposed. (Owner's call.)
-3. **Authoring principles: ratifiable or advisory?** — lean: *ratifiable*; the constitution's rulebook should bind as strongly as the constitution. (Owner's call.)
-4. **Table of Contents** — agree the refined 50-chapter TOC (from the farm repo) and install it as `authoring/01-table-of-contents.md`.
+2. **Ratify the 13 proposed Founding Principles now, or after chapters?** — lean: *after* — let the principles emerge from the chapters and be ratified against them, so the final list is earned rather than imposed. (Owner's call.)
+3. **Authoring principles: ratifiable or advisory?** — *ratifiable*; the constitution's rulebook binds as strongly as the constitution. Ratified via Entry 003.
+   — **RESOLVED**
+4. **Table of Contents** — agree the refined 50-chapter TOC from the farm repo and install it as `authoring/01-table-of-contents.md`.
+   — **RESOLVED**: Ratified as v1.0 (Entry 004).
 5. **Style guide** (`02`) — language, register ("shall" constitutional voice), heading conventions, quoting rules.
+   — **RESOLVED**: Ratified as v1.0 (Entry 005).
 6. **Glossary** (`03`) — key terms: Constitution, Company, PUM, GLOBAL G.A.P., stewardship, etc.
 7. **README** — content to be agreed.
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
@@ -90,10 +97,12 @@ The public repo points to the fact that private context exists; the private repo
 ## 8. How to Resume
 
 1. Read this file (done).
-2. Read `authoring/00-authoring-principles.md` (current draft under review).
-3. Read `authoring/04-decision-log.md` (Entry 001).
-4. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
-5. Ask the owner for the review verdict on the principles draft, then proceed through the open items in §7 in order.
+2. Read `authoring/00-authoring-principles.md` (ratified v1.0) — the binding authoring framework.
+3. Read `authoring/01-table-of-contents.md` (ratified v1.0) — the definitive chapter structure.
+4. Read `authoring/02-style-guide.md` (ratified v1.0) — the binding style conventions.
+5. Read `authoring/04-decision-log.md` (entries 001–005) — the recorded decisions and their reasons.
+6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
+7. Refer to the open items in §7 and proceed in order.
 
 ---
 

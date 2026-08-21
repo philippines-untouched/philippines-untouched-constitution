@@ -42,4 +42,28 @@
 
 ---
 
+## Entry 004 — Agreement of the Table of Contents
+
+- **Date:** At authoring foundation establishment
+- **Decision:** The refined Table of Contents (50 chapters across 11 Parts, 4 Appendices, 6 Front Matter sections) is adopted as the definitive chapter structure for Constitution Version 1.0. The TOC is installed as `authoring/01-table-of-contents.md`.
+- **Reason:** The authoring principles are ratified (§10, Working Method, step 3: "Agree the final Version 1.0 table of contents"). A settled TOC is necessary before chapters can be written. The refined 50-chapter structure (from the private authoring brief) separates Philosophy, Governance and Strategy into distinct Parts, and adds a dedicated Legacy Part that the earlier 51-chapter proposal did not separate.
+- **Alternatives considered:**
+  1. Using the 51-chapter proposal from the Brief (section 27) — superseded by the refined TOC, which consolidates chapters and adds the Legacy Part.
+  2. Keeping the TOC flexible until drafting is complete — rejected: would invite scope creep and inconsistency; each chapter is written knowing its place in the whole.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
+## Entry 005 — Adoption of the Style Guide
+
+- **Date:** At authoring foundation establishment
+- **Decision:** The Style Guide (`authoring/02-style-guide.md`) version 1.0 is adopted as the binding style and voice standard for every chapter of the Constitution.
+- **Reason:** Consistent voice, register and terminology are essential for a constitutional document written by multiple hands over time. The guide codifies the language principles from Authoring Principles §5 (Language and Voice) and §6 (Evidence Over Assertion), and adds conventions for headings, capitalisation, cross-references, "shall" usage, and International English spelling. The guide also formalises the distinction between constitutional language and procedural or promotional language.
+- **Alternatives considered:**
+  1. No style guide — rejected: inconsistency would accumulate across 50 chapters written over time.
+  2. A minimal guide covering only voice and tone — rejected: insufficient for a multi-chapter document that must read as a single coherent text.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
