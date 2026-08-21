@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 19 — Handoff record
+**Version:** 20 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -49,6 +49,7 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - `constitution/12-environmental-responsibility.md` — **Chapter 12 — Environmental Responsibility, RATIFIED** (Entry 017). Protection of biodiversity, natural resources and ecological health.
 - `constitution/13-knowledge-education.md` — **Chapter 13 — Knowledge & Education, RATIFIED** (Entry 018). Continual learning, agricultural education and knowledge sharing. **Part II (Philosophy) complete.**
 - `constitution/14-governance-framework.md` — **Chapter 14 — Governance Framework, RATIFIED** (Entry 019). Authority, accountability and responsibility. First chapter of Part III (Governance).
+- `constitution/15-ethical-leadership.md` — **Chapter 15 — Ethical Leadership, RATIFIED** (Entry 020). The standards of integrity expected from all leaders.
 - `constitution/06-company-identity.md` — **Chapter 6 — Company Identity: LOCAL DRAFT, not committed.** Awaiting TIN, registration numbers and corporate address (all currently unknown).
 
 ---
@@ -90,6 +91,7 @@ The public repo points to the fact that private context exists; the private repo
 21. **Chapter 12 — Environmental Responsibility** — ratified. Recorded as Decision Log Entry 017.
 22. **Chapter 13 — Knowledge & Education** — ratified, completing Part II. Recorded as Decision Log Entry 018.
 23. **Chapter 14 — Governance Framework** — ratified, first chapter of Part III. Recorded as Decision Log Entry 019.
+24. **Chapter 15 — Ethical Leadership** — ratified. Recorded as Decision Log Entry 020.
 
 ---
 
@@ -123,7 +125,7 @@ The public repo points to the fact that private context exists; the private repo
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
    — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
-   — **IN PROGRESS**: Chapters 1–5, 7–14 ratified (Entries 007–019). **Part II (Philosophy) complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 15 — Ethical Leadership (Part III).
+   — **IN PROGRESS**: Chapters 1–5, 7–15 ratified (Entries 007–020). **Part II (Philosophy) complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 16 — Decision Framework (Part III).
 
 ---
 
@@ -133,7 +135,7 @@ The public repo points to the fact that private context exists; the private repo
 2. Read `authoring/00-authoring-principles.md` (ratified v1.0) — the binding authoring framework.
 3. Read `authoring/01-table-of-contents.md` (ratified v1.0) — the definitive chapter structure.
 4. Read `authoring/02-style-guide.md` (ratified v1.0) — the binding style conventions.
-5. Read `authoring/04-decision-log.md` (entries 001–019) — the recorded decisions and their reasons.
+5. Read `authoring/04-decision-log.md` (entries 001–020) — the recorded decisions and their reasons.
 6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
 7. Refer to the open items in §7 and proceed in order.
 ---

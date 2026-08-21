@@ -234,4 +234,16 @@
 
 ---
 
+## Entry 020 — Ratification of Chapter 15 (Ethical Leadership)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 15 — Ethical Leadership (`constitution/15-ethical-leadership.md`) is ratified as the fourteenth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter establishes the standards of integrity expected from all leaders of the Company. It develops the brief's principle that "leadership is stewardship" (§23) into nine concrete leadership standards, and reinforces Founding Principle 11 (The Company Is Greater Than Any Individual) through §15.4, which states that no leader — including the founder, the owner or the chief executive — is above the Constitution or the law. It passed the Definition of Done and the Future Leader Test.
+- **Alternatives considered:**
+  1. Listing only prohibitions and limits on leaders — rejected: the Style Guide prefers the positive voice; the chapter defines what leaders shall do, with the boundary (§15.3–15.4) drawn where necessary.
+  2. Merging ethical leadership into the Governance Framework chapter — rejected: leadership standards are substantial and deserve their own chapter; the TOC separates the framework (14) from the standards expected of leaders (15).
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
