@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 35 — Handoff record
+**Version:** 36 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -65,6 +65,7 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - `constitution/28-supply-chain-philosophy.md` — **Chapter 28 — Supply Chain Philosophy, RATIFIED** (Entry 033). Suppliers and logistics partners as extensions of the Company's values.
 - `constitution/29-continuous-improvement.md` — **Chapter 29 — Continuous Improvement, RATIFIED** (Entry 034). Incremental improvement throughout the organisation. **Part V (Operations) complete.**
 - `constitution/30-quality-management.md` — **Chapter 30 — Quality Management, RATIFIED** (Entry 035). Quality as the Company's primary competitive advantage. First chapter of Part VI (Quality).
+- `constitution/31-food-safety.md` — **Chapter 31 — Food Safety, RATIFIED** (Entry 036). Food safety as a non-negotiable responsibility.
 - `constitution/06-company-identity.md` — **Chapter 6 — Company Identity: LOCAL DRAFT, not committed.** Awaiting TIN, registration numbers and corporate address (all currently unknown).
 
 ---
@@ -122,6 +123,7 @@ The public repo points to the fact that private context exists; the private repo
 37. **Chapter 28 — Supply Chain Philosophy** — ratified. Recorded as Decision Log Entry 033.
 38. **Chapter 29 — Continuous Improvement** — ratified, completing Part V. Recorded as Decision Log Entry 034.
 39. **Chapter 30 — Quality Management** — ratified, first chapter of Part VI. Recorded as Decision Log Entry 035.
+40. **Chapter 31 — Food Safety** — ratified. Recorded as Decision Log Entry 036.
 
 ---
 
@@ -155,7 +157,7 @@ The public repo points to the fact that private context exists; the private repo
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
    — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
-   — **IN PROGRESS**: Chapters 1–5, 7–30 ratified (Entries 007–035). **Parts II–V complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 31 — Food Safety (Part VI).
+   — **IN PROGRESS**: Chapters 1–5, 7–31 ratified (Entries 007–036). **Parts II–V complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 32 — GLOBAL G.A.P. IFA Smart V6 (Part VI).
 
 ---
 
@@ -165,7 +167,7 @@ The public repo points to the fact that private context exists; the private repo
 2. Read `authoring/00-authoring-principles.md` (ratified v1.0) — the binding authoring framework.
 3. Read `authoring/01-table-of-contents.md` (ratified v1.0) — the definitive chapter structure.
 4. Read `authoring/02-style-guide.md` (ratified v1.0) — the binding style conventions.
-5. Read `authoring/04-decision-log.md` (entries 001–035) — the recorded decisions and their reasons.
+5. Read `authoring/04-decision-log.md` (entries 001–036) — the recorded decisions and their reasons.
 6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
 7. Refer to the open items in §7 and proceed in order.
 ---

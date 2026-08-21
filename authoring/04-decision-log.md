@@ -426,4 +426,16 @@
 
 ---
 
+## Entry 036 — Ratification of Chapter 31 (Food Safety)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 31 — Food Safety (`constitution/31-food-safety.md`) is ratified as the thirtieth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter establishes food safety as a non-negotiable responsibility of the Company. It passed the Definition of Done and the Future Leader Test. The chapter expresses Founding Principles 2 (Quality Before Profit) and 6 (Integrity Without Compromise), develops the safety commitment introduced in Chapter 27 (Manufacturing Philosophy) into a full responsibility spanning the whole chain from cultivation to delivery, and establishes that the Company shall always err on the side of safety.
+- **Alternatives considered:**
+  1. Treating food safety as a compliance matter to be managed by a single function — rejected: safety is a non-negotiable responsibility of every part of the Company and the first duty of its quality.
+  2. Confining the chapter to manufacturing — rejected: food safety spans the entire chain, from cultivation to delivery; the chapter states the responsibility at every stage.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
