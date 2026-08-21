@@ -666,4 +666,16 @@
 
 ---
 
+## Entry 056 — Ratification of the Glossary
+
+- **Date:** At completion of Constitution Version 1.0
+- **Decision:** The Glossary (`authoring/03-glossary.md`) version 1.0 is ratified as the authoritative source for defined terms in the Constitution.
+- **Reason:** Per the earlier decision (Entry 001-era working method), the glossary was held as a working document until all chapters reached Version 1.0, so that terms emerging during drafting and ratification could be captured. All fifty chapters are now ratified, and the glossary has been reviewed against the complete Constitution: approximately thirty terms that emerged during chapter authoring (including chapter titles such as Assurance & Audit, Climate Resilience, Ethical Leadership, Risk Governance and many others) were added, and the Document Hierarchy entry was corrected. The glossary now reflects the complete constitutional vocabulary.
+- **Alternatives considered:**
+  1. Ratifying the glossary earlier — rejected: terms would have been missed as chapters were written and refined; the working-document period allowed the vocabulary to settle.
+  2. Leaving the glossary as a working document indefinitely — rejected: the Constitution is complete; the glossary should now be a stable, ratified reference.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
