@@ -222,4 +222,16 @@
 
 ---
 
+## Entry 019 — Ratification of Chapter 14 (Governance Framework)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 14 — Governance Framework (`constitution/14-governance-framework.md`) is ratified as the thirteenth substantive chapter of the Constitution, Version 1.0, and the first chapter of Part III (Governance).
+- **Reason:** The chapter defines how authority, accountability and responsibility are exercised throughout the Company. It draws the nine governance principles from §22 of the authoring brief, including the brief's key requirement that the Company, although an OPC, shall operate with governance standards appropriate to a much larger organisation. The chapter expresses Founding Principle 11 (The Company Is Greater Than Any Individual) through §14.4. It passed the Definition of Done and the Future Leader Test. As the first chapter of Part III, it establishes the framework upon which the remaining Governance chapters (Ethical Leadership, Decision Framework, Organisational Design, Information Integrity, Risk Governance) build.
+- **Alternatives considered:**
+  1. Treating governance as purely procedural (roles, committees, meeting rules) — rejected: the Constitution is principle-based; the governance framework states principles, while implementation belongs to By-Laws and subordinate governance policies.
+  2. Placing the Governance part before Philosophy — rejected: the TOC order is deliberate; the Company's beliefs (Part II) must be established before the framework that governs decisions (Part III).
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
