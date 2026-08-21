@@ -66,4 +66,16 @@
 
 ---
 
+## Entry 006 — Migration of Front Matter Draft
+
+- **Date:** At authoring foundation establishment
+- **Decision:** The existing Part 0 draft (Chapters 0.1 Cover Page, 0.2 Document Control, 0.3 Revision History) is migrated from the private farm repo into `constitution/00-front-matter.md` in this public repository. The cover page copyright is updated from "All Rights Reserved" to the ratified CC BY-ND 4.0 license.
+- **Reason:** The authoring foundation is established and the TOC is agreed. The Front Matter draft existed in the private farm repo as a working document; it now takes its place in the Constitution's public source. The copyright update reflects the ratified license decision (Entry 002). The remaining Front Matter sections (0.4 Dedication, 0.5 Founder's Foreword, 0.6 How to Use This Manual) are not yet drafted and remain future work.
+- **Alternatives considered:**
+  1. Keeping the draft in the farm repo until all Front Matter is complete — rejected: the public repo is the authoritative source; the draft should live where the Constitution lives, even if incomplete.
+  2. Splitting each Front Matter section into separate files — rejected: the three completed sections are brief and logically belong together; future sections may be added to this file or split as the document grows.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*

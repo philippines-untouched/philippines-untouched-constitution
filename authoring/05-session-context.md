@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 4 — Handoff record
+**Version:** 5 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -35,7 +35,7 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - `authoring/03-glossary.md` — still a stub; content to be agreed.
 - `README.md` — still a stub; content to be agreed.
 - `LICENSE.md` — **CC BY-ND 4.0** (ratified). Recorded as Decision Log Entry 002.
-- `constitution/` — empty, awaiting migration of the Manual content.
+- `constitution/00-front-matter.md` — **migrated from private farm repo** (Entry 006). Contains 0.1 Cover Page, 0.2 Document Control, 0.3 Revision History. Copyright updated to CC BY-ND 4.0. Sections 0.4–0.6 not yet drafted.
 
 ---
 
@@ -45,7 +45,7 @@ The authoring brief, planning notes and private deliberations live in the **farm
 
 - `~/projects/farm/documents/Corporate Governance & Strategy Manual Brief.md` — the 46-section authoring brief; the complete reasoning foundation. **Private**: contains personal and strategic material (ownership structure, family considerations, unratified working phrases). Do not copy into this public repo.
 - `~/projects/farm/documents/Corporate-Governance-&-Strategy Manual-TOC.md` — the refined Table of Contents (11 parts, 50 chapters, 4 appendices; supersedes the brief's 51-chapter proposal; author's note names Chapter 41 — Organisational Memory — as the keystone chapter).
-- `~/projects/farm/Corporate Governance & Strategy Manual.md` — existing Part 0 draft (0.1 Cover, 0.2 Document Control, 0.3 Revision History), written in the constitutional voice; to be migrated into `constitution/` when the foundation is agreed.
+- `~/projects/farm/Corporate Governance & Strategy Manual.md` — original Part 0 draft, now **migrated** to `constitution/00-front-matter.md` in this public repo (Entry 006).
 
 The public repo points to the fact that private context exists; the private repo holds the substance.
 
@@ -61,6 +61,7 @@ The public repo points to the fact that private context exists; the private repo
 6. **CC BY-ND 4.0 license** — the Constitution is freely shareable with attribution but may not be altered by third parties. Recorded as Decision Log Entry 002.
 7. **Table of Contents** — 50 chapters across 11 Parts, adopted from the refined farm TOC. Recorded as Decision Log Entry 004.
 8. **Style Guide** — constitutional register, positive voice, "shall" usage, International English. Recorded as Decision Log Entry 005.
+9. **Front Matter migration** — Part 0 draft moved from private farm repo to `constitution/00-front-matter.md` with CC BY-ND 4.0 copyright. Recorded as Decision Log Entry 006.
 
 ---
 
@@ -90,6 +91,7 @@ The public repo points to the fact that private context exists; the private repo
 6. **Glossary** (`03`) — key terms: Constitution, Company, PUM, GLOBAL G.A.P., stewardship, etc.
 7. **README** — content to be agreed.
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
+   — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
 
 ---
@@ -100,7 +102,7 @@ The public repo points to the fact that private context exists; the private repo
 2. Read `authoring/00-authoring-principles.md` (ratified v1.0) — the binding authoring framework.
 3. Read `authoring/01-table-of-contents.md` (ratified v1.0) — the definitive chapter structure.
 4. Read `authoring/02-style-guide.md` (ratified v1.0) — the binding style conventions.
-5. Read `authoring/04-decision-log.md` (entries 001–005) — the recorded decisions and their reasons.
+5. Read `authoring/04-decision-log.md` (entries 001–006) — the recorded decisions and their reasons.
 6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
 7. Refer to the open items in §7 and proceed in order.
 
