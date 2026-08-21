@@ -90,4 +90,16 @@
 
 ---
 
+## Entry 008 — Ratification of Chapter 2 (Vision)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 2 — Vision (`constitution/02-vision.md`) is ratified as the second substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter describes what the Company ultimately seeks to become, giving direction to the Company's Purpose (Chapter 1). It draws its twelve attributes from the Project North Star (§45 of the authoring brief), and frames the Centre of Excellence aspiration and international credibility as strategic objectives, never as achieved status — consistent with Authoring Principles §6 (Evidence Over Assertion). The chapter passed the Definition of Done and the Future Leader Test. The Vision is expressed as constant and enduring, while strategies and operations evolve — consistent with the Constancy of Purpose principle.
+- **Alternatives considered:**
+  1. Writing Vision as a single slogan-like statement — rejected: a constitutional Vision should be substantive enough to guide decisions across generations, while remaining principle-based rather than promotional.
+  2. Deferring the Vision chapter until after Strategy chapters are drafted — rejected: the TOC order is deliberate; Vision defines the destination before Strategy defines the route.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
