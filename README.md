@@ -25,10 +25,11 @@ The Manual is written to remain relevant for decades and generations, and to sur
 │   ├── 00-authoring-principles.md
 │   ├── 01-table-of-contents.md
 │   ├── 02-style-guide.md
-│   ├── 03-glossary.md
 │   └── 04-decision-log.md
 └── constitution/           # The Constitution itself
-    └── 00-front-matter.md
+    ├── 00-front-matter.md
+    ├── 01-purpose.md … 50-constitutional-review.md
+    └── appendix-a-glossary.md … appendix-d-referenced-standards.md
 ```
 
 ### Authoring Framework
@@ -40,8 +41,9 @@ The authoring framework documents establish the rules, structure and voice by wh
 | Authoring Principles | Rules for writing, revising and ratifying the Constitution |
 | Table of Contents | Definitive 50-chapter structure across 11 Parts |
 | Style Guide | Language, voice, "shall" usage, capitalisation, International English |
-| Glossary | Defined terms (working draft; finalised after all chapters reach v1) |
 | Decision Log | Permanent record of significant authoring decisions and their reasons |
+
+The **Glossary** — the authoritative source for defined terms — is **Appendix A** of the Constitution, in `constitution/appendix-a-glossary.md`.
 
 ### The Constitution
 

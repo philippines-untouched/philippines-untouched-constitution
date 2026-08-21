@@ -678,4 +678,52 @@
 
 ---
 
+## Entry 057 — Relocation of the Glossary to the Constitution Directory
+
+- **Date:** At completion of Constitution Version 1.0
+- **Decision:** The Glossary is relocated from `authoring/03-glossary.md` to `constitution/appendix-a-glossary.md`, adopting the same naming convention as Appendices B, C and D (`appendix-b-document-hierarchy.md`, `appendix-c-corporate-principles-cross-reference.md`, `appendix-d-referenced-standards.md`). References in the README and Session Context are updated accordingly.
+- **Reason:** The Glossary is Appendix A of the Constitution. Its placement in the authoring directory was inherited from the original repository skeleton (brief §39), established before the Constitution's appendices existed as files. With Appendices B, C and D now living in the constitution directory under the `appendix-*` naming convention, the Glossary's location had become inconsistent and confusing. The relocation makes the appendices uniform: all four live in `constitution/` with matching names, reflecting their constitutional role.
+- **Alternatives considered:**
+  1. Leaving the Glossary in the authoring directory — rejected: inconsistent with its sibling appendices and confusing as to its constitutional status.
+  2. Moving Appendices B–D into the authoring directory — rejected: the appendices are part of the Constitution itself; they belong with the chapters in `constitution/`.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
+## Entry 058 — Ratification of Appendix B (Document Hierarchy)
+
+- **Date:** At completion of Constitution Version 1.0
+- **Decision:** Appendix B — Document Hierarchy (`constitution/appendix-b-document-hierarchy.md`) is ratified as part of the Constitution, Version 1.0.
+- **Reason:** The appendix shows how every policy, standard, manual and procedure derives authority from the Constitution, adopting the hierarchy from §28 of the authoring brief and the principle that the Constitution provides principles while subordinate documents provide implementation. It passed the Definition of Done and the Future Leader Test. It is consistent with Chapter 0.2 (Document Control) and Chapter 0.6 (How to Use This Manual), which list the same subordinate-document categories.
+- **Alternatives considered:**
+  1. Leaving the hierarchy only implicit in Chapter 0.2 and 0.6 — rejected: a single, visual reference of the document hierarchy serves readers and future authors; the TOC provides for it as Appendix B.
+  2. Prescribing the exact content of every subordinate document — rejected: the appendix defines structure and authority, not content; implementation belongs to the subordinate documents themselves.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
+## Entry 059 — Ratification of Appendix C (Corporate Principles Cross-Reference)
+
+- **Date:** At completion of Constitution Version 1.0
+- **Decision:** Appendix C — Corporate Principles Cross-Reference (`constitution/appendix-c-corporate-principles-cross-reference.md`) is ratified as part of the Constitution, Version 1.0.
+- **Reason:** The appendix maps every chapter of the Constitution back to the Founding Principles it expresses, in both chapter-to-principle and principle-to-chapter form. It passed the Definition of Done and the Future Leader Test. The mapping was produced by reviewing each ratified chapter against the thirteen Founding Principles, and it makes the Constitution's principle structure explicit and traceable, as the TOC's Appendix C description requires.
+- **Alternatives considered:**
+  1. Omitting the cross-reference — rejected: the TOC specifies Appendix C as mapping every chapter to the Founding Principles; without it the principle structure is less accessible.
+  2. Including only a chapter-to-principle table — rejected: the reverse principle-to-chapter index makes the appendix useful from either direction.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
+## Entry 060 — Ratification of Appendix D (Referenced Standards)
+
+- **Date:** At completion of Constitution Version 1.0
+- **Decision:** Appendix D — Referenced Standards (`constitution/appendix-d-referenced-standards.md`) is ratified as part of the Constitution, Version 1.0.
+- **Reason:** The appendix lists the Philippine legislation, international certification standards and recognised frameworks that influence the Company's governance and strategic direction. It is carefully framed so that listing a standard is a statement of influence and intent, never a claim of achieved certification — consistent with Authoring Principles §6 (Evidence Over Assertion) and Chapters 24 and 32. The Philippine legislation references were verified (RA 11232, RA 10611, RA 7394, RA 8550).
+- **Alternatives considered:**
+  1. Omitting specific legislation — rejected: the TOC specifies Appendix D lists relevant legislation, standards and frameworks; the verified references make the appendix substantive.
+  2. Presenting certification status as achieved — rejected: explicitly prohibited by Evidence Over Assertion; the appendix states that formal status is recorded only through the amendment process when obtained.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
