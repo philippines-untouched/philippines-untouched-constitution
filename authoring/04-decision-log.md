@@ -126,4 +126,16 @@
 
 ---
 
+## Entry 011 — Ratification of Chapter 5 (Founding Principles)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 5 — Founding Principles (`constitution/05-founding-principles.md`) is ratified as the fifth substantive chapter of the Constitution, Version 1.0. The thirteen Founding Principles proposed in the authoring brief (§25) are adopted as drafted.
+- **Reason:** The chapter establishes the non-negotiable principles from which every corporate decision shall flow. The owner reviewed the draft and ratified it as it stands. The earlier open question — whether to ratify the Founding Principles before or after the remaining chapters — is resolved in favour of ratification now, with the understanding that any future changes proceed through the formal amendment process defined by the Constitution as it stands at the time. This preserves the authoring principle that the Constitution evolves only by formal amendment, never by silent change.
+- **Alternatives considered:**
+  1. Deferring ratification until all chapters are complete — rejected by the owner in favour of ratification now; amendments remain available through the formal process.
+  2. Amending the proposed thirteen principles before ratification — no amendments were requested.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*

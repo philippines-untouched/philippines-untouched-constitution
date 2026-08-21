@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 10 — Handoff record
+**Version:** 11 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -40,6 +40,7 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - `constitution/02-vision.md` — **Chapter 2 — Vision, RATIFIED** (Entry 008). Describes what the Company ultimately seeks to become.
 - `constitution/03-mission.md` — **Chapter 3 — Mission, RATIFIED** (Entry 009). Defines what the Company does every day to achieve its Vision.
 - `constitution/04-core-values.md` — **Chapter 4 — Core Values, RATIFIED** (Entry 010). Integrity, Quality, Stewardship, Trust, Excellence — the standard of conduct for every person acting on behalf of the Company.
+- `constitution/05-founding-principles.md` — **Chapter 5 — Founding Principles, RATIFIED** (Entry 011). The thirteen non-negotiable principles from which every corporate decision shall flow.
 
 ---
 
@@ -71,6 +72,7 @@ The public repo points to the fact that private context exists; the private repo
 12. **Chapter 2 — Vision** — ratified. Recorded as Decision Log Entry 008.
 13. **Chapter 3 — Mission** — ratified. Recorded as Decision Log Entry 009.
 14. **Chapter 4 — Core Values** — ratified. Recorded as Decision Log Entry 010.
+15. **Chapter 5 — Founding Principles** — the thirteen proposed principles ratified as drafted. Recorded as Decision Log Entry 011. (Resolves the earlier open question: ratify now, amend later via formal process.)
 
 ---
 
@@ -91,6 +93,7 @@ The public repo points to the fact that private context exists; the private repo
 1. **Review of `00-authoring-principles.md`** — the owner's reaction may adjust structure, wording, or voice before ratification. This is the immediate next step.
    — **RESOLVED**: Ratified as v1.0 (Entry 003).
 2. **Ratify the 13 proposed Founding Principles now, or after chapters?** — lean: *after* — let the principles emerge from the chapters and be ratified against them, so the final list is earned rather than imposed. (Owner's call.)
+   — **RESOLVED**: Ratified now as Chapter 5 (Entry 011). Future changes go through the formal amendment process.
 3. **Authoring principles: ratifiable or advisory?** — *ratifiable*; the constitution's rulebook binds as strongly as the constitution. Ratified via Entry 003.
    — **RESOLVED**
 4. **Table of Contents** — agree the refined 50-chapter TOC from the farm repo and install it as `authoring/01-table-of-contents.md`.
@@ -103,7 +106,7 @@ The public repo points to the fact that private context exists; the private repo
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
    — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
-   — **IN PROGRESS**: Chapters 1–4 ratified (Entries 007–010). Next: Chapter 5 — Founding Principles.
+   — **IN PROGRESS**: Chapters 1–5 ratified (Entries 007–011). Next: Chapter 6 — Company Identity.
 
 ---
 
@@ -113,7 +116,7 @@ The public repo points to the fact that private context exists; the private repo
 2. Read `authoring/00-authoring-principles.md` (ratified v1.0) — the binding authoring framework.
 3. Read `authoring/01-table-of-contents.md` (ratified v1.0) — the definitive chapter structure.
 4. Read `authoring/02-style-guide.md` (ratified v1.0) — the binding style conventions.
-5. Read `authoring/04-decision-log.md` (entries 001–010) — the recorded decisions and their reasons.
+5. Read `authoring/04-decision-log.md` (entries 001–011) — the recorded decisions and their reasons.
 6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
 7. Refer to the open items in §7 and proceed in order.
 ---
