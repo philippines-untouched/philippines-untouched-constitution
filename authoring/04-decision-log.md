@@ -30,4 +30,16 @@
 
 ---
 
+## Entry 003 — Ratification of Authoring Principles
+
+- **Date:** At authoring foundation establishment
+- **Decision:** The Authoring Principles (`authoring/00-authoring-principles.md`) version 1.0 is ratified as the binding framework for writing, revising and amending the Constitution.
+- **Reason:** The principles have been reviewed and approved by the owner. The foundation is now formally established. Every future author and every future amendment is bound by these principles unless the principles themselves are formally amended in accordance with Section 9 (Ratification and Amendment). The authoring process may now proceed from foundation to substantive chapters.
+- **Alternatives considered:**
+  1. Keeping the principles as a working draft until all chapters are written — rejected: the foundation must be agreed before chapters are drafted, per Section 10 (Working Method). Writing chapters without a ratified framework risks inconsistency.
+  2. Ratifying with amendments — no amendments were requested.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*

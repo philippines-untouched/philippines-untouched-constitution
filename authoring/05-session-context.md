@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 2 — Handoff record
+**Version:** 3 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -28,7 +28,7 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 ## 3. Current State
 
 - Repository created (public), initial skeleton committed (`6749d3c`, branch `main`).
-- `authoring/00-authoring-principles.md` — **full draft written, awaiting the owner's review and ratification.** This is the current focus.
+- `authoring/00-authoring-principles.md` — **v1.0 RATIFIED** (Entry 003). The authoring foundation is formally established.
 - `authoring/04-decision-log.md` — seeded with **Entry 001** (provenance of authoring context). The log's format is established; subsequent decisions are appended.
 - `authoring/01-table-of-contents.md`, `02-style-guide.md`, `03-glossary.md` — still stubs; contents to be agreed.
 - `README.md` — still a stub; content to be agreed.
@@ -75,6 +75,7 @@ The public repo points to the fact that private context exists; the private repo
 ## 7. Open Items and Pending Decisions
 
 1. **Review of `00-authoring-principles.md`** — the owner's reaction may adjust structure, wording, or voice before ratification. This is the immediate next step.
+   — **RESOLVED**: Ratified as v1.0 (Entry 003).
 2. **Ratify the 13 proposed Founding Principles now, or after chapters?** — the founding session's lean: *after* — let the principles emerge from the chapters and be ratified against them, so the final list is earned rather than imposed. (Owner's call.)
 3. **Authoring principles: ratifiable or advisory?** — lean: *ratifiable*; the constitution's rulebook should bind as strongly as the constitution. (Owner's call.)
 4. **Table of Contents** — agree the refined 50-chapter TOC (from the farm repo) and install it as `authoring/01-table-of-contents.md`.
