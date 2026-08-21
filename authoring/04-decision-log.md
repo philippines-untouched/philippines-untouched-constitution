@@ -162,4 +162,16 @@
 
 ---
 
+## Entry 014 — Ratification of Chapter 9 (Trust Through Evidence)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 9 — Trust Through Evidence (`constitution/09-trust-through-evidence.md`) is ratified as the eighth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter establishes accurate information, traceability and evidence-based decision making as foundations of the Company's trust. It expresses Founding Principle 3 (Truth Through Evidence) in full, drawing the eight evidence principles from §5 of the authoring brief. The chapter deliberately presents the evidence philosophy as an institutional principle without reference to any specific software system (GAP or otherwise), as the brief requires: "Technology may change. The principle of trustworthy evidence should not." It passed the Definition of Done and the Future Leader Test.
+- **Alternatives considered:**
+  1. Referencing the GAP software system by name — rejected: the brief explicitly states the evidence philosophy should become institutional rather than a reference to one particular software system; the chapter instead states the underlying principles.
+  2. Merging evidence into the Information Integrity chapter (18, Part III) — rejected: evidence is a foundational belief of the Company (Philosophy), while Information Integrity is a governance concern (how information is managed as a strategic asset); the TOC separates these deliberately.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
