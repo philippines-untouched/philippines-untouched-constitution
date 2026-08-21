@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 8 — Handoff record
+**Version:** 9 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -38,6 +38,7 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - `constitution/00-front-matter.md` — **migrated from private farm repo** (Entry 006). Contains 0.1 Cover Page, 0.2 Document Control, 0.3 Revision History. Copyright updated to CC BY-ND 4.0. Sections 0.4–0.6 not yet drafted.
 - `constitution/01-purpose.md` — **Chapter 1 — Purpose, RATIFIED** (Entry 007). The first substantive chapter; establishes the Company's reason for existing beyond financial success.
 - `constitution/02-vision.md` — **Chapter 2 — Vision, RATIFIED** (Entry 008). Describes what the Company ultimately seeks to become.
+- `constitution/03-mission.md` — **Chapter 3 — Mission, RATIFIED** (Entry 009). Defines what the Company does every day to achieve its Vision.
 
 ---
 
@@ -67,6 +68,7 @@ The public repo points to the fact that private context exists; the private repo
 10. **README** — approved by the owner; describes purpose, structure, license, status and institutional authorship.
 11. **Chapter 1 — Purpose** — ratified as the first substantive chapter. Recorded as Decision Log Entry 007.
 12. **Chapter 2 — Vision** — ratified. Recorded as Decision Log Entry 008.
+13. **Chapter 3 — Mission** — ratified. Recorded as Decision Log Entry 009.
 
 ---
 
@@ -99,7 +101,7 @@ The public repo points to the fact that private context exists; the private repo
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
    — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
-   — **IN PROGRESS**: Chapters 1–2 ratified (Entries 007–008). Next: Chapter 3 — Mission.
+   — **IN PROGRESS**: Chapters 1–3 ratified (Entries 007–009). Next: Chapter 4 — Core Values.
 
 ---
 
@@ -109,7 +111,7 @@ The public repo points to the fact that private context exists; the private repo
 2. Read `authoring/00-authoring-principles.md` (ratified v1.0) — the binding authoring framework.
 3. Read `authoring/01-table-of-contents.md` (ratified v1.0) — the definitive chapter structure.
 4. Read `authoring/02-style-guide.md` (ratified v1.0) — the binding style conventions.
-5. Read `authoring/04-decision-log.md` (entries 001–008) — the recorded decisions and their reasons.
+5. Read `authoring/04-decision-log.md` (entries 001–009) — the recorded decisions and their reasons.
 6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
 7. Refer to the open items in §7 and proceed in order.
 ---

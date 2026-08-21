@@ -102,4 +102,16 @@
 
 ---
 
+## Entry 009 — Ratification of Chapter 3 (Mission)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 3 — Mission (`constitution/03-mission.md`) is ratified as the third substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter defines what the Company does every day to achieve its Vision, converting the Company's enduring principles into consistent daily action. It draws the Company's activities from §8 (Core Business) of the authoring brief — cultivation, harvesting, processing, manufacturing, packaging, quality assurance, branding, distribution, sales, product development and innovation — while retaining the flexibility to evolve that the brief requires. The chapter passed the Definition of Done and the Future Leader Test. It reinforces the integrated-system principle (brief §4) and frames the Mission's principles as constant while its activities evolve, consistent with Constancy of Purpose.
+- **Alternatives considered:**
+  1. Listing the Company's activities as a fixed catalogue — rejected: the brief explicitly states the product lineup and activities should remain intentionally broad in the constitutional document; principles, not catalogues.
+  2. Merging Mission into the Vision chapter — rejected: Vision (what we seek to become) and Mission (what we do) are distinct questions; the TOC separates them deliberately.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
