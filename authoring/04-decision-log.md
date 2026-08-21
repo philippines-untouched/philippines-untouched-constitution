@@ -582,4 +582,16 @@
 
 ---
 
+## Entry 049 — Ratification of Chapter 44 (Resource Stewardship)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 44 — Resource Stewardship (`constitution/44-resource-stewardship.md`) is ratified as the forty-third substantive chapter of the Constitution, Version 1.0, completing Part IX (Sustainability).
+- **Reason:** The chapter defines responsible management of land, water, energy and materials. It passed the Definition of Done and the Future Leader Test. The chapter expresses Founding Principles 1 (Stewardship Before Ownership) and 7 (Nature Is Our Foundation), developing the land duties of Chapter 7 (Stewardship) and the resource duties of Chapter 12 (Environmental Responsibility) into dedicated disciplines for each resource class. Ratification of this chapter completes Part IX (Sustainability): Sustainable Development, Climate Resilience and Resource Stewardship.
+- **Alternatives considered:**
+  1. Treating resources as consumable inputs to be minimised only on cost grounds — rejected: resources are entrusted to the Company; the chapter grounds responsible use in stewardship, not cost alone.
+  2. Including specific consumption targets or metrics — rejected: the Constitution is principle-based; specific targets belong in subordinate Sustainability and Operations plans.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
