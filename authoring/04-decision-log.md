@@ -438,4 +438,16 @@
 
 ---
 
+## Entry 037 — Ratification of Chapter 32 (GLOBAL G.A.P. IFA Smart V6)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 32 — GLOBAL G.A.P. IFA Smart V6 (`constitution/32-global-gap.md`) is ratified as the thirty-first substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter explains why internationally recognised certification forms part of the Company's strategic direction. It adopts the requirements and approach from §18 of the authoring brief, and preserves the brief's explicit requirement — and the Constitution's Evidence Over Assertion principle — that certification is a strategic objective, never implied as achieved until formally obtained. The chapter passed the Definition of Done and the Future Leader Test. It develops the certification references in Chapters 24 (International Strategy) and 26 (Agricultural Philosophy) into the Company's full certification strategy.
+- **Alternatives considered:**
+  1. Treating certification as a marketing claim — rejected: the brief explicitly states certification is not a marketing badge; the chapter requires substance over display.
+  2. Deferring the chapter until certification is obtained — rejected: the Constitution states principles and strategic objectives; certification status itself is recorded through the amendment process when formally obtained.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
