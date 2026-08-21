@@ -354,4 +354,16 @@
 
 ---
 
+## Entry 030 — Ratification of Chapter 25 (Operational Excellence)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 25 — Operational Excellence (`constitution/25-operational-excellence.md`) is ratified as the twenty-fourth substantive chapter of the Constitution, Version 1.0, and the first chapter of Part V (Operations).
+- **Reason:** The chapter defines the principles underpinning efficient, consistent and scalable operations. It passed the Definition of Done and the Future Leader Test. The chapter ties the Company's daily work to its principles — consistency as the discipline of excellence, scalability without loss of standard, and evidence as part of operational discipline — connecting Operations (Part V) to the Philosophy (Part II) and Quality foundations.
+- **Alternatives considered:**
+  1. Including specific operational procedures, metrics or targets — rejected: the Constitution is principle-based; operational procedures belong in subordinate Operational Manuals and SOPs.
+  2. Merging operations into the Mission chapter — rejected: Mission states what the Company does; Part V governs how that work is performed to standard; the TOC separates these.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
