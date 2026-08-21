@@ -306,4 +306,16 @@
 
 ---
 
+## Entry 026 — Ratification of Chapter 21 (Market Strategy)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 21 — Market Strategy (`constitution/21-market-strategy.md`) is ratified as the twentieth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter explains how the Company intends to compete through quality, trust and authenticity. It adopts the market position from §9 of the authoring brief — international export markets as the primary target, direct online sales as the primary channel, and competition in the premium segment rather than on commodity pricing. The chapter passed the Definition of Done and the Future Leader Test. It expresses Founding Principle 13 (Excellence Without Comparison) by framing competition as self-improvement rather than the diminishing of others.
+- **Alternatives considered:**
+  1. Including detailed market analyses, customer segments or pricing models — rejected: the Constitution is principle-based; detailed market strategy belongs in subordinate Strategic and Business Plans.
+  2. Positioning the Company primarily on price — rejected: contrary to the brief's explicit premium-segment position and the Company's quality philosophy.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
