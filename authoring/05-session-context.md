@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 51 — Handoff record
+**Version:** 52 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -81,6 +81,7 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - `constitution/44-resource-stewardship.md` — **Chapter 44 — Resource Stewardship, RATIFIED** (Entry 049). Responsible management of land, water, energy and materials. **Part IX (Sustainability) complete.**
 - `constitution/45-financial-philosophy.md` — **Chapter 45 — Financial Philosophy, RATIFIED** (Entry 050). Money as a tool for achieving the Company's purpose rather than its purpose. First chapter of Part X (Financial Stewardship).
 - `constitution/46-capital-allocation.md` — **Chapter 46 — Capital Allocation, RATIFIED** (Entry 051). Financial resources invested responsibly for long-term benefit.
+- `constitution/47-sustainable-profitability.md` — **Chapter 47 — Sustainable Profitability, RATIFIED** (Entry 052). Profit as the consequence of creating enduring value. **Part X (Financial Stewardship) complete.**
 - `constitution/06-company-identity.md` — **Chapter 6 — Company Identity: LOCAL DRAFT, not committed.** Awaiting TIN, registration numbers and corporate address (all currently unknown).
 
 ---
@@ -154,6 +155,7 @@ The public repo points to the fact that private context exists; the private repo
 53. **Chapter 44 — Resource Stewardship** — ratified, completing Part IX. Recorded as Decision Log Entry 049.
 54. **Chapter 45 — Financial Philosophy** — ratified, first chapter of Part X. Recorded as Decision Log Entry 050.
 55. **Chapter 46 — Capital Allocation** — ratified. Recorded as Decision Log Entry 051.
+56. **Chapter 47 — Sustainable Profitability** — ratified, completing Part X. Recorded as Decision Log Entry 052.
 
 ---
 
@@ -187,7 +189,7 @@ The public repo points to the fact that private context exists; the private repo
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
    — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
-   — **IN PROGRESS**: Chapters 1–5, 7–46 ratified (Entries 007–051). **Parts II–IX complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 47 — Sustainable Profitability (Part X, final chapter).
+   — **IN PROGRESS**: Chapters 1–5, 7–47 ratified (Entries 007–052). **Parts II–X complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 48 — Legacy (Part XI, final part).
 
 ---
 
@@ -197,7 +199,7 @@ The public repo points to the fact that private context exists; the private repo
 2. Read `authoring/00-authoring-principles.md` (ratified v1.0) — the binding authoring framework.
 3. Read `authoring/01-table-of-contents.md` (ratified v1.0) — the definitive chapter structure.
 4. Read `authoring/02-style-guide.md` (ratified v1.0) — the binding style conventions.
-5. Read `authoring/04-decision-log.md` (entries 001–051) — the recorded decisions and their reasons.
+5. Read `authoring/04-decision-log.md` (entries 001–052) — the recorded decisions and their reasons.
 6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
 7. Refer to the open items in §7 and proceed in order.
 ---

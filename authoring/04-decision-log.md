@@ -618,4 +618,16 @@
 
 ---
 
+## Entry 052 — Ratification of Chapter 47 (Sustainable Profitability)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 47 — Sustainable Profitability (`constitution/47-sustainable-profitability.md`) is ratified as the forty-sixth substantive chapter of the Constitution, Version 1.0, completing Part X (Financial Stewardship).
+- **Reason:** The chapter defines profit as the consequence of creating enduring value. It passed the Definition of Done and the Future Leader Test. The chapter completes the Financial Stewardship trilogy — Philosophy (45), Capital Allocation (46), Profitability (47) — giving constitutional form to the brief's fundamental philosophy that profit is a means to fulfilling the Company's purpose, not the purpose itself (§2), and to Founding Principle 2 (Quality Before Profit). It defines sustainable profit as profit that can be earned again without depleting what it depends upon.
+- **Alternatives considered:**
+  1. Treating profitability as the primary measure of the Company's success — rejected: profit is one measure among the enduring value measures; the chapter places it in service of purpose.
+  2. Including specific profit targets or margin requirements — rejected: the Constitution is principle-based; financial targets belong in subordinate Financial Plans.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
