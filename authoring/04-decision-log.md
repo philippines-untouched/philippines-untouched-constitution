@@ -522,4 +522,16 @@
 
 ---
 
+## Entry 044 — Ratification of Chapter 39 (Digital Transformation)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 39 — Digital Transformation (`constitution/39-digital-transformation.md`) is ratified as the thirty-eighth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter explains how digital systems support decision making without replacing human judgement. It passed the Definition of Done and the Future Leader Test. The chapter's central principle — that digital systems may propose, analyse and inform, while the decision and the responsibility remain with the people of the Company — preserves human judgement, ethics and accountability as constitutional requirements. It builds upon the Technology Philosophy (Chapter 38) and connects digital systems to the Company's organisational memory.
+- **Alternatives considered:**
+  1. Treating digital systems as decision makers or substitutes for judgement — rejected: the Company's principles require human judgement and accountability in decisions; digital systems inform but never decide.
+  2. Framing digital transformation as an end in itself — rejected: consistent with the Technology Philosophy, digital transformation serves the Company's purpose; the chapter subordinates transformation to service.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*

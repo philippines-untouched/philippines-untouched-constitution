@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 43 — Handoff record
+**Version:** 44 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -73,6 +73,7 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - `constitution/36-brand-architecture.md` — **Chapter 36 — Brand Architecture, RATIFIED** (Entry 041). Every brand relates to the Company directly; no brand is subordinate to another.
 - `constitution/37-customer-trust.md` — **Chapter 37 — Customer Trust, RATIFIED** (Entry 042). How trust is earned, maintained and protected. **Part VII (Brand) complete.**
 - `constitution/38-technology-philosophy.md` — **Chapter 38 — Technology Philosophy, RATIFIED** (Entry 043). Technology as an enabler of quality, efficiency and organisational learning. First chapter of Part VIII (Technology).
+- `constitution/39-digital-transformation.md` — **Chapter 39 — Digital Transformation, RATIFIED** (Entry 044). Digital systems support decision making without replacing human judgement.
 - `constitution/06-company-identity.md` — **Chapter 6 — Company Identity: LOCAL DRAFT, not committed.** Awaiting TIN, registration numbers and corporate address (all currently unknown).
 
 ---
@@ -138,6 +139,7 @@ The public repo points to the fact that private context exists; the private repo
 45. **Chapter 36 — Brand Architecture** — ratified. Recorded as Decision Log Entry 041. (Refined during drafting: no brand is a reference point for another; all relate to the Company.)
 46. **Chapter 37 — Customer Trust** — ratified, completing Part VII. Recorded as Decision Log Entry 042.
 47. **Chapter 38 — Technology Philosophy** — ratified, first chapter of Part VIII. Recorded as Decision Log Entry 043.
+48. **Chapter 39 — Digital Transformation** — ratified. Recorded as Decision Log Entry 044.
 
 ---
 
@@ -171,7 +173,7 @@ The public repo points to the fact that private context exists; the private repo
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
    — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
-   — **IN PROGRESS**: Chapters 1–5, 7–38 ratified (Entries 007–043). **Parts II–VII complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 39 — Digital Transformation (Part VIII).
+   — **IN PROGRESS**: Chapters 1–5, 7–39 ratified (Entries 007–044). **Parts II–VII complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 40 — Automation (Part VIII).
 
 ---
 
@@ -181,7 +183,7 @@ The public repo points to the fact that private context exists; the private repo
 2. Read `authoring/00-authoring-principles.md` (ratified v1.0) — the binding authoring framework.
 3. Read `authoring/01-table-of-contents.md` (ratified v1.0) — the definitive chapter structure.
 4. Read `authoring/02-style-guide.md` (ratified v1.0) — the binding style conventions.
-5. Read `authoring/04-decision-log.md` (entries 001–043) — the recorded decisions and their reasons.
+5. Read `authoring/04-decision-log.md` (entries 001–044) — the recorded decisions and their reasons.
 6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
 7. Refer to the open items in §7 and proceed in order.
 ---
