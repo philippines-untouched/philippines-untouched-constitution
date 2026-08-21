@@ -282,4 +282,16 @@
 
 ---
 
+## Entry 024 — Ratification of Chapter 19 (Risk Governance)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 19 — Risk Governance (`constitution/19-risk-governance.md`) is ratified as the eighteenth substantive chapter of the Constitution, Version 1.0, completing Part III (Governance).
+- **Reason:** The chapter explains how risk should be understood, managed and balanced against opportunity. It frames risk governance as judgement — the disciplined evaluation of what may be gained, what may be lost, and what the Company can bear — consistent with the brief's governance principles (§22, risk management). The chapter passed the Definition of Done and the Future Leader Test. It protects the Company's integrity through §19.5: no risk that could compromise the Company's integrity or founding principles shall be accepted. Ratification of this chapter completes Part III (Governance): Framework, Ethical Leadership, Decision Framework, Organisational Design, Information Integrity and Risk Governance.
+- **Alternatives considered:**
+  1. Framing risk as something to be minimised or avoided — rejected: the Company's purpose requires the pursuit of opportunity; the chapter governs risk rather than fleeing it.
+  2. Specifying particular risk categories or tolerances — rejected: the Constitution is principle-based; risk appetite and specific tolerances belong in subordinate governance policies.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
