@@ -642,4 +642,16 @@
 
 ---
 
+## Entry 054 — Ratification of Chapter 49 (Succession)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 49 — Succession (`constitution/49-succession.md`) is ratified as the forty-eighth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter defines leadership succession as the orderly transfer of stewardship rather than ownership. It passed the Definition of Done and the Future Leader Test — and directly reinforces it: orderly succession is what makes it possible for a future leader who never met the founder to understand the Company. The chapter expresses Founding Principle 11 (The Company Is Greater Than Any Individual), and fulfils the brief's founding intent (§46) that the Company continue successfully without dependence upon the founder.
+- **Alternatives considered:**
+  1. Treating succession as primarily an ownership or inheritance matter — rejected: succession is the transfer of stewardship and responsibility, not merely ownership; the chapter establishes this distinction.
+  2. Confining succession to a single leader or role — rejected: the Company must not depend on any individual at any level; succession is a standing discipline of leadership.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
