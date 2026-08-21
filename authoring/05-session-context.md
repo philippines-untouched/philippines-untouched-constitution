@@ -1,6 +1,6 @@
 # Session Context
 
-**Version:** 30 — Handoff record
+**Version:** 31 — Handoff record
 **Purpose:** Restore full authoring context for any session that picks up this project after the founding session. Read this file, then the documents it references, to resume work.
 
 ---
@@ -60,6 +60,7 @@ Philippines Untouched OPC is being established as a long-term agricultural and f
 - `constitution/23-innovation-strategy.md` — **Chapter 23 — Innovation Strategy, RATIFIED** (Entry 028). Innovation solves meaningful problems rather than creating unnecessary complexity.
 - `constitution/24-international-strategy.md` — **Chapter 24 — International Strategy, RATIFIED** (Entry 029). Export aspirations and commitment to international standards. **Part IV (Strategy) complete.**
 - `constitution/25-operational-excellence.md` — **Chapter 25 — Operational Excellence, RATIFIED** (Entry 030). Efficient, consistent and scalable operations. First chapter of Part V (Operations).
+- `constitution/26-agricultural-philosophy.md` — **Chapter 26 — Agricultural Philosophy, RATIFIED** (Entry 031). Farming decisions supporting quality, sustainability and long-term land stewardship.
 - `constitution/06-company-identity.md` — **Chapter 6 — Company Identity: LOCAL DRAFT, not committed.** Awaiting TIN, registration numbers and corporate address (all currently unknown).
 
 ---
@@ -112,6 +113,7 @@ The public repo points to the fact that private context exists; the private repo
 32. **Chapter 23 — Innovation Strategy** — ratified. Recorded as Decision Log Entry 028.
 33. **Chapter 24 — International Strategy** — ratified, completing Part IV. Recorded as Decision Log Entry 029.
 34. **Chapter 25 — Operational Excellence** — ratified, first chapter of Part V. Recorded as Decision Log Entry 030.
+35. **Chapter 26 — Agricultural Philosophy** — ratified. Recorded as Decision Log Entry 031.
 
 ---
 
@@ -145,7 +147,7 @@ The public repo points to the fact that private context exists; the private repo
 8. **Migrate the Part 0 draft** from the farm repo into `constitution/` once the foundation is agreed.
    — **RESOLVED**: Migrated as `constitution/00-front-matter.md` (Entry 006).
 9. **Then chapters** — beginning with Chapter 1 — Purpose, working through the agreed TOC.
-   — **IN PROGRESS**: Chapters 1–5, 7–25 ratified (Entries 007–030). **Parts II, III & IV complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 26 — Agricultural Philosophy (Part V).
+   — **IN PROGRESS**: Chapters 1–5, 7–26 ratified (Entries 007–031). **Parts II, III & IV complete.** Chapter 6 — Company Identity drafted but **held as local draft**: needs TIN, registration numbers and corporate address (all currently unknown) from the owner before ratification. Next after Chapter 6: Chapter 27 — Manufacturing Philosophy (Part V).
 
 ---
 
@@ -155,7 +157,7 @@ The public repo points to the fact that private context exists; the private repo
 2. Read `authoring/00-authoring-principles.md` (ratified v1.0) — the binding authoring framework.
 3. Read `authoring/01-table-of-contents.md` (ratified v1.0) — the definitive chapter structure.
 4. Read `authoring/02-style-guide.md` (ratified v1.0) — the binding style conventions.
-5. Read `authoring/04-decision-log.md` (entries 001–030) — the recorded decisions and their reasons.
+5. Read `authoring/04-decision-log.md` (entries 001–031) — the recorded decisions and their reasons.
 6. For any chapter work: consult the private brief in the farm repo (paths in §4) — it is the reasoning authority.
 7. Refer to the open items in §7 and proceed in order.
 ---

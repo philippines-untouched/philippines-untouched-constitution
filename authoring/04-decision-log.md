@@ -366,4 +366,16 @@
 
 ---
 
+## Entry 031 — Ratification of Chapter 26 (Agricultural Philosophy)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 26 — Agricultural Philosophy (`constitution/26-agricultural-philosophy.md`) is ratified as the twenty-fifth substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter explains how farming decisions should support quality, sustainability and long-term land stewardship. It expresses Founding Principles 1 (Stewardship Before Ownership) and 7 (Nature Is Our Foundation) in the context of the Company's agricultural operations, and requires farming to recognised Good Agricultural Practices. The chapter preserves the Evidence Over Assertion discipline — certification is a strategic objective, never claimed before it is formally obtained. It passed the Definition of Done and the Future Leader Test.
+- **Alternatives considered:**
+  1. Specifying particular crops, methods or inputs — rejected: the Constitution is principle-based; specific agricultural practices belong in the subordinate Farm Manual.
+  2. Treating GLOBAL G.A.P. certification in this chapter — rejected: Chapter 32 develops the certification strategy in full; this chapter establishes the underlying agricultural philosophy.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
