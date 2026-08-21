@@ -198,4 +198,16 @@
 
 ---
 
+## Entry 017 — Ratification of Chapter 12 (Environmental Responsibility)
+
+- **Date:** At authoring foundation establishment
+- **Decision:** Chapter 12 — Environmental Responsibility (`constitution/12-environmental-responsibility.md`) is ratified as the eleventh substantive chapter of the Constitution, Version 1.0.
+- **Reason:** The chapter defines how the Company protects biodiversity, natural resources and ecological health. It expresses Founding Principle 7 (Nature Is Our Foundation) in full, extending the land duties from §15 of the authoring brief beyond land to water, energy, materials and biodiversity. The chapter deliberately complements rather than duplicates Chapter 7 (Stewardship): Chapter 7 establishes the duty to leave what is entrusted stronger; Chapter 12 establishes the specific environmental responsibilities of biodiversity protection, resource conservation and ecological health. It passed the Definition of Done and the Future Leader Test.
+- **Alternatives considered:**
+  1. Merging environmental responsibility into the Stewardship chapter — rejected: environmental responsibility is substantial enough to warrant its own chapter, and the TOC (Part II: Stewardship, Quality, Evidence, People, Community, Environment, Knowledge) treats it as a distinct philosophical commitment.
+  2. Naming specific certification schemes — rejected: GLOBAL G.A.P. has its own chapter (32); the chapter instead references international best practice without asserting achieved certification, per Evidence Over Assertion.
+- **Status:** Ratified by the authoring foundation.
+
+---
+
 *Subsequent decisions are appended to this log with sequential entry numbers. Entries are never deleted or rewritten; corrections are recorded as new entries.*
